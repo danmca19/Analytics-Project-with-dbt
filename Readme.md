@@ -49,9 +49,9 @@ A **data lineage** was generated to illustrate how raw CSV files are transformed
 - **Debugging**: Helps data teams quickly identify where errors propagate.  
 - **Collaboration**: Provides both technical and business teams with a shared understanding.  
 
-### Lineage Graph  
+### DBT Documenation View  
 
-![DBT Lineage Graph](dbt_lineage.png)  
+![DBT_ExploratoryAnalysis Graph](imagens/DBT_ExploratoryAnalysis.png)
 
 ---
 
