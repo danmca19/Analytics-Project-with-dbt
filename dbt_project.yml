@@ -1,0 +1,27 @@
+# dbt project for analyzing local CSVs with DuckDB
+name: 'csv_analytics'
+version: '1.0.0'
+config-version: 2
+
+profile: 'csv_analytics'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+seed-paths: ["seeds"]
+docs-paths: ["docs"]
+
+models:
+  csv_analytics:
+    +materialized: view
+    staging:
+      +schema: staging
+    marts:
+      +schema: marts
+
+seeds:
+  csv_analytics:
+    +quote_columns: false
+    +schema: raw

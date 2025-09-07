@@ -1,0 +1,9 @@
+# Copy this file to ~/.dbt/profiles.yml (or set DBT_PROFILES_DIR to this folder)
+csv_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: warehouse/ecommerce.duckdb   # local file created by DuckDB
+      threads: 4
+      schema: main
