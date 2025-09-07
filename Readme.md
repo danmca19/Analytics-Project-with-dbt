@@ -51,7 +51,7 @@ A **data lineage** was generated to illustrate how raw CSV files are transformed
 
 ### DBT Documenation View  
 
-![DBT ExploratoryAnalysis Graph](imagens/DBT_ExploratoryAnalysis.png)
+![DBT ExploratoryAnalysis Graph](Images/DBT_ExploratoryAnalysis.png)
 
 ---
 
