@@ -1,0 +1,59 @@
+version: 2
+
+seeds:
+  - name: raw_orders
+    description: "Raw orders as uploaded (seeded)."
+    columns:
+      - name: order_id
+        tests: [not_null, unique]
+      - name: customer_id
+        tests: [not_null]
+      - name: order_date
+      - name: status
+      - name: total_amount
+        tests: [non_negative]
+  - name: raw_order_items
+    description: "Items per order."
+    columns:
+      - name: order_item_id
+        tests: [not_null, unique]
+      - name: order_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('raw_orders')
+              field: order_id
+      - name: product_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('raw_products')
+              field: product_id
+      - name: quantity
+        tests: [not_null, non_negative]
+      - name: unit_price
+        tests: [not_null, non_negative]
+      - name: total_price
+        tests: [non_negative]
+  - name: raw_products
+    description: "Product master data."
+    columns:
+      - name: product_id
+        tests: [not_null, unique]
+      - name: product_name
+      - name: category
+      - name: price
+        tests: [not_null, non_negative]
+      - name: cost
+        tests: [not_null, non_negative]
+  - name: raw_customers
+    description: "Customer master data."
+    columns:
+      - name: customer_id
+        tests: [not_null, unique]
+      - name: first_name
+      - name: last_name
+      - name: email
+      - name: city
+      - name: state
+      - name: registration_date

@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,email,city,state,registration_date
+1,Cliente_1,Sobrenome_1,cliente1@email.com,São Paulo,SP,2025-04-18
+2,Cliente_2,Sobrenome_2,cliente2@email.com,Rio de Janeiro,RJ,2025-06-26
+3,Cliente_3,Sobrenome_3,cliente3@email.com,São Paulo,BA,2025-07-23
+4,Cliente_4,Sobrenome_4,cliente4@email.com,Salvador,RS,2025-08-20
+5,Cliente_5,Sobrenome_5,cliente5@email.com,São Paulo,SP,2025-05-17
+6,Cliente_6,Sobrenome_6,cliente6@email.com,Rio de Janeiro,BA,2024-11-01
+7,Cliente_7,Sobrenome_7,cliente7@email.com,São Paulo,BA,2025-05-27
+8,Cliente_8,Sobrenome_8,cliente8@email.com,Salvador,RS,2025-05-16
+9,Cliente_9,Sobrenome_9,cliente9@email.com,Porto Alegre,BA,2025-04-16
+10,Cliente_10,Sobrenome_10,cliente10@email.com,São Paulo,RJ,2024-09-13
+11,Cliente_11,Sobrenome_11,cliente11@email.com,Porto Alegre,MG,2025-04-16
+12,Cliente_12,Sobrenome_12,cliente12@email.com,Rio de Janeiro,RJ,2025-03-17
+13,Cliente_13,Sobrenome_13,cliente13@email.com,São Paulo,SP,2025-02-23
+14,Cliente_14,Sobrenome_14,cliente14@email.com,São Paulo,MG,2025-03-13
+15,Cliente_15,Sobrenome_15,cliente15@email.com,Salvador,MG,2025-08-14
+16,Cliente_16,Sobrenome_16,cliente16@email.com,Porto Alegre,BA,2025-07-04
+17,Cliente_17,Sobrenome_17,cliente17@email.com,Porto Alegre,SP,2024-11-27
+18,Cliente_18,Sobrenome_18,cliente18@email.com,Belo Horizonte,BA,2025-03-04
+19,Cliente_19,Sobrenome_19,cliente19@email.com,Salvador,RJ,2024-09-10
+20,Cliente_20,Sobrenome_20,cliente20@email.com,São Paulo,SP,2024-10-02
+21,Cliente_21,Sobrenome_21,cliente21@email.com,Rio de Janeiro,MG,2025-07-27
+22,Cliente_22,Sobrenome_22,cliente22@email.com,Rio de Janeiro,SP,2025-02-23
+23,Cliente_23,Sobrenome_23,cliente23@email.com,Belo Horizonte,RS,2024-10-15
+24,Cliente_24,Sobrenome_24,cliente24@email.com,Belo Horizonte,RJ,2025-02-28
+25,Cliente_25,Sobrenome_25,cliente25@email.com,Belo Horizonte,RJ,2024-09-27
+26,Cliente_26,Sobrenome_26,cliente26@email.com,Belo Horizonte,SP,2024-10-29
+27,Cliente_27,Sobrenome_27,cliente27@email.com,Rio de Janeiro,BA,2025-05-03
+28,Cliente_28,Sobrenome_28,cliente28@email.com,Rio de Janeiro,RS,2025-02-23
+29,Cliente_29,Sobrenome_29,cliente29@email.com,Belo Horizonte,BA,2025-05-16
+30,Cliente_30,Sobrenome_30,cliente30@email.com,Belo Horizonte,SP,2025-05-11
+31,Cliente_31,Sobrenome_31,cliente31@email.com,São Paulo,MG,2025-02-12
+32,Cliente_32,Sobrenome_32,cliente32@email.com,Belo Horizonte,SP,2025-05-20
+33,Cliente_33,Sobrenome_33,cliente33@email.com,Salvador,MG,2025-05-20
+34,Cliente_34,Sobrenome_34,cliente34@email.com,Porto Alegre,RS,2024-10-11
+35,Cliente_35,Sobrenome_35,cliente35@email.com,Porto Alegre,RJ,2025-04-23
+36,Cliente_36,Sobrenome_36,cliente36@email.com,Rio de Janeiro,RJ,2024-11-22
+37,Cliente_37,Sobrenome_37,cliente37@email.com,Salvador,MG,2024-11-10
+38,Cliente_38,Sobrenome_38,cliente38@email.com,Porto Alegre,BA,2025-02-13
+39,Cliente_39,Sobrenome_39,cliente39@email.com,Belo Horizonte,RJ,2025-06-27
+40,Cliente_40,Sobrenome_40,cliente40@email.com,Salvador,RS,2025-07-21
+41,Cliente_41,Sobrenome_41,cliente41@email.com,São Paulo,SP,2025-06-19
+42,Cliente_42,Sobrenome_42,cliente42@email.com,Rio de Janeiro,RS,2024-11-04
+43,Cliente_43,Sobrenome_43,cliente43@email.com,São Paulo,RS,2025-02-22
+44,Cliente_44,Sobrenome_44,cliente44@email.com,Salvador,RS,2024-12-09
+45,Cliente_45,Sobrenome_45,cliente45@email.com,Belo Horizonte,BA,2025-08-31
+46,Cliente_46,Sobrenome_46,cliente46@email.com,São Paulo,BA,2025-04-22
+47,Cliente_47,Sobrenome_47,cliente47@email.com,Belo Horizonte,SP,2025-04-08
+48,Cliente_48,Sobrenome_48,cliente48@email.com,Porto Alegre,RJ,2025-01-16
+49,Cliente_49,Sobrenome_49,cliente49@email.com,São Paulo,MG,2024-12-23
+50,Cliente_50,Sobrenome_50,cliente50@email.com,Rio de Janeiro,BA,2025-07-13
+51,Cliente_51,Sobrenome_51,cliente51@email.com,Belo Horizonte,BA,2024-10-29
+52,Cliente_52,Sobrenome_52,cliente52@email.com,Rio de Janeiro,RJ,2025-02-26
+53,Cliente_53,Sobrenome_53,cliente53@email.com,Rio de Janeiro,BA,2024-12-08
+54,Cliente_54,Sobrenome_54,cliente54@email.com,São Paulo,BA,2025-03-24
+55,Cliente_55,Sobrenome_55,cliente55@email.com,Porto Alegre,SP,2025-07-10
+56,Cliente_56,Sobrenome_56,cliente56@email.com,Belo Horizonte,MG,2025-05-06
+57,Cliente_57,Sobrenome_57,cliente57@email.com,São Paulo,RJ,2024-11-19
+58,Cliente_58,Sobrenome_58,cliente58@email.com,São Paulo,SP,2024-12-31
+59,Cliente_59,Sobrenome_59,cliente59@email.com,São Paulo,BA,2025-07-03
+60,Cliente_60,Sobrenome_60,cliente60@email.com,Rio de Janeiro,RS,2024-11-28
+61,Cliente_61,Sobrenome_61,cliente61@email.com,Rio de Janeiro,MG,2024-12-09
+62,Cliente_62,Sobrenome_62,cliente62@email.com,Salvador,RS,2025-05-20
+63,Cliente_63,Sobrenome_63,cliente63@email.com,Salvador,RJ,2025-03-30
+64,Cliente_64,Sobrenome_64,cliente64@email.com,Porto Alegre,MG,2025-01-24
+65,Cliente_65,Sobrenome_65,cliente65@email.com,Salvador,RS,2025-07-06
+66,Cliente_66,Sobrenome_66,cliente66@email.com,Rio de Janeiro,RJ,2025-08-04
+67,Cliente_67,Sobrenome_67,cliente67@email.com,Belo Horizonte,SP,2024-11-08
+68,Cliente_68,Sobrenome_68,cliente68@email.com,Salvador,RJ,2024-11-08
+69,Cliente_69,Sobrenome_69,cliente69@email.com,Rio de Janeiro,SP,2025-07-31
+70,Cliente_70,Sobrenome_70,cliente70@email.com,São Paulo,RJ,2025-08-02
+71,Cliente_71,Sobrenome_71,cliente71@email.com,São Paulo,MG,2025-07-31
+72,Cliente_72,Sobrenome_72,cliente72@email.com,Salvador,RJ,2025-04-16
+73,Cliente_73,Sobrenome_73,cliente73@email.com,Porto Alegre,RJ,2024-12-03
+74,Cliente_74,Sobrenome_74,cliente74@email.com,Rio de Janeiro,BA,2024-11-14
+75,Cliente_75,Sobrenome_75,cliente75@email.com,Porto Alegre,RJ,2025-01-06
+76,Cliente_76,Sobrenome_76,cliente76@email.com,Porto Alegre,RJ,2025-07-19
+77,Cliente_77,Sobrenome_77,cliente77@email.com,São Paulo,RS,2025-03-08
+78,Cliente_78,Sobrenome_78,cliente78@email.com,Porto Alegre,RS,2025-01-09
+79,Cliente_79,Sobrenome_79,cliente79@email.com,São Paulo,SP,2025-08-05
+80,Cliente_80,Sobrenome_80,cliente80@email.com,Porto Alegre,MG,2025-07-12
+81,Cliente_81,Sobrenome_81,cliente81@email.com,Rio de Janeiro,RJ,2025-05-31
+82,Cliente_82,Sobrenome_82,cliente82@email.com,Salvador,RS,2025-06-26
+83,Cliente_83,Sobrenome_83,cliente83@email.com,Porto Alegre,RJ,2025-04-16
+84,Cliente_84,Sobrenome_84,cliente84@email.com,Porto Alegre,RJ,2025-07-29
+85,Cliente_85,Sobrenome_85,cliente85@email.com,Porto Alegre,BA,2025-07-17
+86,Cliente_86,Sobrenome_86,cliente86@email.com,São Paulo,BA,2025-08-29
+87,Cliente_87,Sobrenome_87,cliente87@email.com,São Paulo,RJ,2025-06-12
+88,Cliente_88,Sobrenome_88,cliente88@email.com,Porto Alegre,RS,2025-01-02
+89,Cliente_89,Sobrenome_89,cliente89@email.com,Rio de Janeiro,RS,2025-08-06
+90,Cliente_90,Sobrenome_90,cliente90@email.com,Rio de Janeiro,RS,2025-09-04
+91,Cliente_91,Sobrenome_91,cliente91@email.com,Porto Alegre,MG,2025-01-16
+92,Cliente_92,Sobrenome_92,cliente92@email.com,Belo Horizonte,RS,2024-09-14
+93,Cliente_93,Sobrenome_93,cliente93@email.com,Salvador,RS,2025-06-18
+94,Cliente_94,Sobrenome_94,cliente94@email.com,Rio de Janeiro,MG,2025-05-17
+95,Cliente_95,Sobrenome_95,cliente95@email.com,São Paulo,BA,2024-12-02
+96,Cliente_96,Sobrenome_96,cliente96@email.com,São Paulo,MG,2025-08-07
+97,Cliente_97,Sobrenome_97,cliente97@email.com,São Paulo,BA,2025-01-04
+98,Cliente_98,Sobrenome_98,cliente98@email.com,Salvador,BA,2025-06-17
+99,Cliente_99,Sobrenome_99,cliente99@email.com,São Paulo,BA,2025-07-26
+100,Cliente_100,Sobrenome_100,cliente100@email.com,Rio de Janeiro,SP,2024-11-05
+101,Cliente_101,Sobrenome_101,cliente101@email.com,São Paulo,RJ,2025-02-11
+102,Cliente_102,Sobrenome_102,cliente102@email.com,São Paulo,BA,2025-05-02
+103,Cliente_103,Sobrenome_103,cliente103@email.com,Salvador,BA,2025-08-16
+104,Cliente_104,Sobrenome_104,cliente104@email.com,Salvador,SP,2025-02-03
+105,Cliente_105,Sobrenome_105,cliente105@email.com,Salvador,BA,2024-12-12
+106,Cliente_106,Sobrenome_106,cliente106@email.com,Belo Horizonte,MG,2025-05-24
+107,Cliente_107,Sobrenome_107,cliente107@email.com,Belo Horizonte,RJ,2025-04-23
+108,Cliente_108,Sobrenome_108,cliente108@email.com,Porto Alegre,RJ,2024-09-27
+109,Cliente_109,Sobrenome_109,cliente109@email.com,Belo Horizonte,RS,2025-03-28
+110,Cliente_110,Sobrenome_110,cliente110@email.com,São Paulo,SP,2025-01-14
+111,Cliente_111,Sobrenome_111,cliente111@email.com,Salvador,BA,2025-07-16
+112,Cliente_112,Sobrenome_112,cliente112@email.com,São Paulo,BA,2025-05-19
+113,Cliente_113,Sobrenome_113,cliente113@email.com,Salvador,MG,2025-06-30
+114,Cliente_114,Sobrenome_114,cliente114@email.com,Belo Horizonte,SP,2025-05-03
+115,Cliente_115,Sobrenome_115,cliente115@email.com,Belo Horizonte,MG,2025-06-17
+116,Cliente_116,Sobrenome_116,cliente116@email.com,Porto Alegre,BA,2024-09-10
+117,Cliente_117,Sobrenome_117,cliente117@email.com,Belo Horizonte,BA,2024-10-06
+118,Cliente_118,Sobrenome_118,cliente118@email.com,Salvador,SP,2024-09-29
+119,Cliente_119,Sobrenome_119,cliente119@email.com,Salvador,MG,2024-10-01
+120,Cliente_120,Sobrenome_120,cliente120@email.com,São Paulo,RJ,2025-04-23
+121,Cliente_121,Sobrenome_121,cliente121@email.com,São Paulo,SP,2024-11-26
+122,Cliente_122,Sobrenome_122,cliente122@email.com,Rio de Janeiro,MG,2025-04-14
+123,Cliente_123,Sobrenome_123,cliente123@email.com,Salvador,RJ,2025-03-14
+124,Cliente_124,Sobrenome_124,cliente124@email.com,Rio de Janeiro,MG,2024-12-21
+125,Cliente_125,Sobrenome_125,cliente125@email.com,Porto Alegre,MG,2025-08-10
+126,Cliente_126,Sobrenome_126,cliente126@email.com,São Paulo,RS,2025-04-17
+127,Cliente_127,Sobrenome_127,cliente127@email.com,São Paulo,SP,2025-03-19
+128,Cliente_128,Sobrenome_128,cliente128@email.com,Rio de Janeiro,MG,2025-06-15
+129,Cliente_129,Sobrenome_129,cliente129@email.com,Porto Alegre,BA,2024-09-09
+130,Cliente_130,Sobrenome_130,cliente130@email.com,Porto Alegre,BA,2025-09-01
+131,Cliente_131,Sobrenome_131,cliente131@email.com,São Paulo,SP,2024-09-17
+132,Cliente_132,Sobrenome_132,cliente132@email.com,Rio de Janeiro,BA,2025-08-18
+133,Cliente_133,Sobrenome_133,cliente133@email.com,Belo Horizonte,BA,2024-11-27
+134,Cliente_134,Sobrenome_134,cliente134@email.com,Rio de Janeiro,RS,2025-07-02
+135,Cliente_135,Sobrenome_135,cliente135@email.com,São Paulo,MG,2025-03-03
+136,Cliente_136,Sobrenome_136,cliente136@email.com,São Paulo,MG,2025-05-21
+137,Cliente_137,Sobrenome_137,cliente137@email.com,Rio de Janeiro,SP,2025-03-08
+138,Cliente_138,Sobrenome_138,cliente138@email.com,Salvador,RS,2024-10-23
+139,Cliente_139,Sobrenome_139,cliente139@email.com,Rio de Janeiro,RJ,2025-06-14
+140,Cliente_140,Sobrenome_140,cliente140@email.com,Rio de Janeiro,RS,2025-08-24
+141,Cliente_141,Sobrenome_141,cliente141@email.com,Rio de Janeiro,MG,2025-02-07
+142,Cliente_142,Sobrenome_142,cliente142@email.com,Rio de Janeiro,MG,2025-06-16
+143,Cliente_143,Sobrenome_143,cliente143@email.com,São Paulo,RS,2025-08-17
+144,Cliente_144,Sobrenome_144,cliente144@email.com,Porto Alegre,RJ,2025-05-26
+145,Cliente_145,Sobrenome_145,cliente145@email.com,Porto Alegre,MG,2025-04-02
+146,Cliente_146,Sobrenome_146,cliente146@email.com,Rio de Janeiro,RJ,2025-08-24
+147,Cliente_147,Sobrenome_147,cliente147@email.com,Rio de Janeiro,RS,2025-03-21
+148,Cliente_148,Sobrenome_148,cliente148@email.com,Belo Horizonte,SP,2025-04-16
+149,Cliente_149,Sobrenome_149,cliente149@email.com,Belo Horizonte,BA,2025-02-13
+150,Cliente_150,Sobrenome_150,cliente150@email.com,Salvador,MG,2025-08-22
+151,Cliente_151,Sobrenome_151,cliente151@email.com,São Paulo,MG,2025-06-06
+152,Cliente_152,Sobrenome_152,cliente152@email.com,Salvador,MG,2025-08-17
+153,Cliente_153,Sobrenome_153,cliente153@email.com,São Paulo,BA,2025-01-26
+154,Cliente_154,Sobrenome_154,cliente154@email.com,Belo Horizonte,MG,2025-01-25
+155,Cliente_155,Sobrenome_155,cliente155@email.com,Salvador,BA,2025-07-08
+156,Cliente_156,Sobrenome_156,cliente156@email.com,Porto Alegre,BA,2025-05-31
+157,Cliente_157,Sobrenome_157,cliente157@email.com,Belo Horizonte,SP,2024-09-08
+158,Cliente_158,Sobrenome_158,cliente158@email.com,Porto Alegre,SP,2024-12-13
+159,Cliente_159,Sobrenome_159,cliente159@email.com,Salvador,RJ,2025-03-03
+160,Cliente_160,Sobrenome_160,cliente160@email.com,Porto Alegre,SP,2024-09-30
+161,Cliente_161,Sobrenome_161,cliente161@email.com,Belo Horizonte,BA,2025-03-29
+162,Cliente_162,Sobrenome_162,cliente162@email.com,São Paulo,MG,2024-12-20
+163,Cliente_163,Sobrenome_163,cliente163@email.com,Belo Horizonte,RS,2025-03-22
+164,Cliente_164,Sobrenome_164,cliente164@email.com,Porto Alegre,MG,2024-11-26
+165,Cliente_165,Sobrenome_165,cliente165@email.com,Rio de Janeiro,RJ,2025-02-02
+166,Cliente_166,Sobrenome_166,cliente166@email.com,Porto Alegre,RJ,2024-10-25
+167,Cliente_167,Sobrenome_167,cliente167@email.com,Salvador,MG,2025-02-10
+168,Cliente_168,Sobrenome_168,cliente168@email.com,Salvador,SP,2025-04-03
+169,Cliente_169,Sobrenome_169,cliente169@email.com,Belo Horizonte,RJ,2025-01-28
+170,Cliente_170,Sobrenome_170,cliente170@email.com,Salvador,BA,2024-10-05
+171,Cliente_171,Sobrenome_171,cliente171@email.com,Belo Horizonte,RS,2025-01-22
+172,Cliente_172,Sobrenome_172,cliente172@email.com,Porto Alegre,RJ,2024-12-18
+173,Cliente_173,Sobrenome_173,cliente173@email.com,Porto Alegre,RJ,2024-10-03
+174,Cliente_174,Sobrenome_174,cliente174@email.com,São Paulo,MG,2024-12-16
+175,Cliente_175,Sobrenome_175,cliente175@email.com,Salvador,MG,2025-07-20
+176,Cliente_176,Sobrenome_176,cliente176@email.com,Rio de Janeiro,MG,2025-05-13
+177,Cliente_177,Sobrenome_177,cliente177@email.com,Rio de Janeiro,RJ,2025-08-24
+178,Cliente_178,Sobrenome_178,cliente178@email.com,São Paulo,RJ,2025-01-05
+179,Cliente_179,Sobrenome_179,cliente179@email.com,Salvador,SP,2025-01-15
+180,Cliente_180,Sobrenome_180,cliente180@email.com,Porto Alegre,BA,2025-05-29
+181,Cliente_181,Sobrenome_181,cliente181@email.com,Porto Alegre,RS,2025-02-13
+182,Cliente_182,Sobrenome_182,cliente182@email.com,Rio de Janeiro,RJ,2024-10-05
+183,Cliente_183,Sobrenome_183,cliente183@email.com,São Paulo,SP,2025-01-31
+184,Cliente_184,Sobrenome_184,cliente184@email.com,Rio de Janeiro,RJ,2024-09-14
+185,Cliente_185,Sobrenome_185,cliente185@email.com,Salvador,RS,2025-08-11
+186,Cliente_186,Sobrenome_186,cliente186@email.com,Salvador,RJ,2025-07-05
+187,Cliente_187,Sobrenome_187,cliente187@email.com,Porto Alegre,RJ,2025-01-11
+188,Cliente_188,Sobrenome_188,cliente188@email.com,Salvador,BA,2024-11-05
+189,Cliente_189,Sobrenome_189,cliente189@email.com,Belo Horizonte,RS,2024-10-27
+190,Cliente_190,Sobrenome_190,cliente190@email.com,Salvador,RS,2024-11-29
+191,Cliente_191,Sobrenome_191,cliente191@email.com,Porto Alegre,RJ,2025-01-05
+192,Cliente_192,Sobrenome_192,cliente192@email.com,Porto Alegre,MG,2025-05-02
+193,Cliente_193,Sobrenome_193,cliente193@email.com,Belo Horizonte,BA,2024-12-31
+194,Cliente_194,Sobrenome_194,cliente194@email.com,Rio de Janeiro,MG,2025-01-23
+195,Cliente_195,Sobrenome_195,cliente195@email.com,São Paulo,MG,2025-05-08
+196,Cliente_196,Sobrenome_196,cliente196@email.com,Belo Horizonte,MG,2025-03-26
+197,Cliente_197,Sobrenome_197,cliente197@email.com,Salvador,SP,2025-06-27
+198,Cliente_198,Sobrenome_198,cliente198@email.com,Rio de Janeiro,RJ,2025-02-21
+199,Cliente_199,Sobrenome_199,cliente199@email.com,Rio de Janeiro,RJ,2025-08-04
+200,Cliente_200,Sobrenome_200,cliente200@email.com,Porto Alegre,RS,2025-03-20
+201,Cliente_201,Sobrenome_201,cliente201@email.com,Salvador,RS,2025-02-05
+202,Cliente_202,Sobrenome_202,cliente202@email.com,São Paulo,RJ,2025-02-02
+203,Cliente_203,Sobrenome_203,cliente203@email.com,Porto Alegre,BA,2024-09-14
+204,Cliente_204,Sobrenome_204,cliente204@email.com,São Paulo,BA,2025-02-23
+205,Cliente_205,Sobrenome_205,cliente205@email.com,Porto Alegre,SP,2025-03-09
+206,Cliente_206,Sobrenome_206,cliente206@email.com,Belo Horizonte,RS,2025-02-03
+207,Cliente_207,Sobrenome_207,cliente207@email.com,Salvador,BA,2024-11-01
+208,Cliente_208,Sobrenome_208,cliente208@email.com,Rio de Janeiro,RS,2025-05-16
+209,Cliente_209,Sobrenome_209,cliente209@email.com,Belo Horizonte,RS,2024-12-31
+210,Cliente_210,Sobrenome_210,cliente210@email.com,São Paulo,RS,2025-03-17
+211,Cliente_211,Sobrenome_211,cliente211@email.com,Porto Alegre,RJ,2025-01-09
+212,Cliente_212,Sobrenome_212,cliente212@email.com,Rio de Janeiro,BA,2024-12-06
+213,Cliente_213,Sobrenome_213,cliente213@email.com,São Paulo,RS,2024-11-06
+214,Cliente_214,Sobrenome_214,cliente214@email.com,Salvador,SP,2025-07-25
+215,Cliente_215,Sobrenome_215,cliente215@email.com,Porto Alegre,RJ,2025-01-12
+216,Cliente_216,Sobrenome_216,cliente216@email.com,Rio de Janeiro,SP,2025-04-25
+217,Cliente_217,Sobrenome_217,cliente217@email.com,Porto Alegre,MG,2025-05-20
+218,Cliente_218,Sobrenome_218,cliente218@email.com,Porto Alegre,MG,2025-03-17
+219,Cliente_219,Sobrenome_219,cliente219@email.com,Porto Alegre,MG,2025-02-02
+220,Cliente_220,Sobrenome_220,cliente220@email.com,Belo Horizonte,SP,2025-01-08
+221,Cliente_221,Sobrenome_221,cliente221@email.com,São Paulo,BA,2025-08-10
+222,Cliente_222,Sobrenome_222,cliente222@email.com,Belo Horizonte,RJ,2024-10-08
+223,Cliente_223,Sobrenome_223,cliente223@email.com,São Paulo,SP,2025-08-21
+224,Cliente_224,Sobrenome_224,cliente224@email.com,Rio de Janeiro,RJ,2025-08-26
+225,Cliente_225,Sobrenome_225,cliente225@email.com,Salvador,RJ,2025-05-06
+226,Cliente_226,Sobrenome_226,cliente226@email.com,Rio de Janeiro,RS,2024-09-28
+227,Cliente_227,Sobrenome_227,cliente227@email.com,São Paulo,BA,2025-05-17
+228,Cliente_228,Sobrenome_228,cliente228@email.com,Porto Alegre,MG,2025-03-01
+229,Cliente_229,Sobrenome_229,cliente229@email.com,Rio de Janeiro,BA,2024-10-30
+230,Cliente_230,Sobrenome_230,cliente230@email.com,São Paulo,RJ,2025-03-30
+231,Cliente_231,Sobrenome_231,cliente231@email.com,São Paulo,BA,2025-08-23
+232,Cliente_232,Sobrenome_232,cliente232@email.com,Belo Horizonte,BA,2024-09-24
+233,Cliente_233,Sobrenome_233,cliente233@email.com,Porto Alegre,RS,2025-05-27
+234,Cliente_234,Sobrenome_234,cliente234@email.com,São Paulo,BA,2024-09-17
+235,Cliente_235,Sobrenome_235,cliente235@email.com,Rio de Janeiro,SP,2024-09-14
+236,Cliente_236,Sobrenome_236,cliente236@email.com,Belo Horizonte,BA,2025-07-06
+237,Cliente_237,Sobrenome_237,cliente237@email.com,Salvador,SP,2025-03-12
+238,Cliente_238,Sobrenome_238,cliente238@email.com,Salvador,RS,2024-10-02
+239,Cliente_239,Sobrenome_239,cliente239@email.com,Belo Horizonte,SP,2024-12-20
+240,Cliente_240,Sobrenome_240,cliente240@email.com,Belo Horizonte,SP,2025-02-02
+241,Cliente_241,Sobrenome_241,cliente241@email.com,Porto Alegre,SP,2025-01-27
+242,Cliente_242,Sobrenome_242,cliente242@email.com,Belo Horizonte,RS,2024-09-08
+243,Cliente_243,Sobrenome_243,cliente243@email.com,Rio de Janeiro,RS,2025-06-07
+244,Cliente_244,Sobrenome_244,cliente244@email.com,Salvador,MG,2024-10-25
+245,Cliente_245,Sobrenome_245,cliente245@email.com,Salvador,RS,2025-01-10
+246,Cliente_246,Sobrenome_246,cliente246@email.com,Porto Alegre,BA,2025-04-21
+247,Cliente_247,Sobrenome_247,cliente247@email.com,Belo Horizonte,RJ,2025-07-23
+248,Cliente_248,Sobrenome_248,cliente248@email.com,Belo Horizonte,RS,2025-05-04
+249,Cliente_249,Sobrenome_249,cliente249@email.com,Porto Alegre,BA,2024-10-28
+250,Cliente_250,Sobrenome_250,cliente250@email.com,Porto Alegre,MG,2025-08-22
+251,Cliente_251,Sobrenome_251,cliente251@email.com,Porto Alegre,MG,2025-06-04
+252,Cliente_252,Sobrenome_252,cliente252@email.com,Porto Alegre,RJ,2025-03-08
+253,Cliente_253,Sobrenome_253,cliente253@email.com,Belo Horizonte,MG,2025-04-15
+254,Cliente_254,Sobrenome_254,cliente254@email.com,Salvador,MG,2024-11-25
+255,Cliente_255,Sobrenome_255,cliente255@email.com,São Paulo,BA,2025-05-31
+256,Cliente_256,Sobrenome_256,cliente256@email.com,São Paulo,RJ,2025-02-09
+257,Cliente_257,Sobrenome_257,cliente257@email.com,Porto Alegre,BA,2025-05-05
+258,Cliente_258,Sobrenome_258,cliente258@email.com,Porto Alegre,RS,2025-01-19
+259,Cliente_259,Sobrenome_259,cliente259@email.com,São Paulo,SP,2025-04-08
+260,Cliente_260,Sobrenome_260,cliente260@email.com,Rio de Janeiro,RS,2024-09-16
+261,Cliente_261,Sobrenome_261,cliente261@email.com,Rio de Janeiro,MG,2024-10-01
+262,Cliente_262,Sobrenome_262,cliente262@email.com,Salvador,MG,2025-01-06
+263,Cliente_263,Sobrenome_263,cliente263@email.com,Salvador,BA,2025-03-13
+264,Cliente_264,Sobrenome_264,cliente264@email.com,Porto Alegre,BA,2025-03-20
+265,Cliente_265,Sobrenome_265,cliente265@email.com,Belo Horizonte,RS,2025-04-20
+266,Cliente_266,Sobrenome_266,cliente266@email.com,Belo Horizonte,MG,2025-05-10
+267,Cliente_267,Sobrenome_267,cliente267@email.com,São Paulo,RJ,2025-03-28
+268,Cliente_268,Sobrenome_268,cliente268@email.com,São Paulo,BA,2024-09-17
+269,Cliente_269,Sobrenome_269,cliente269@email.com,Rio de Janeiro,RJ,2025-05-18
+270,Cliente_270,Sobrenome_270,cliente270@email.com,Porto Alegre,MG,2024-11-08
+271,Cliente_271,Sobrenome_271,cliente271@email.com,Salvador,BA,2025-04-14
+272,Cliente_272,Sobrenome_272,cliente272@email.com,São Paulo,RJ,2025-04-07
+273,Cliente_273,Sobrenome_273,cliente273@email.com,Rio de Janeiro,MG,2025-06-06
+274,Cliente_274,Sobrenome_274,cliente274@email.com,Belo Horizonte,SP,2024-09-08
+275,Cliente_275,Sobrenome_275,cliente275@email.com,Salvador,RJ,2025-04-18
+276,Cliente_276,Sobrenome_276,cliente276@email.com,São Paulo,SP,2024-11-26
+277,Cliente_277,Sobrenome_277,cliente277@email.com,Belo Horizonte,RJ,2024-10-14
+278,Cliente_278,Sobrenome_278,cliente278@email.com,Porto Alegre,SP,2025-08-30
+279,Cliente_279,Sobrenome_279,cliente279@email.com,Salvador,MG,2025-01-08
+280,Cliente_280,Sobrenome_280,cliente280@email.com,Porto Alegre,RS,2025-03-15
+281,Cliente_281,Sobrenome_281,cliente281@email.com,Rio de Janeiro,SP,2025-04-29
+282,Cliente_282,Sobrenome_282,cliente282@email.com,Porto Alegre,SP,2025-08-03
+283,Cliente_283,Sobrenome_283,cliente283@email.com,Porto Alegre,RS,2025-07-30
+284,Cliente_284,Sobrenome_284,cliente284@email.com,Salvador,SP,2025-06-20
+285,Cliente_285,Sobrenome_285,cliente285@email.com,Rio de Janeiro,BA,2025-04-03
+286,Cliente_286,Sobrenome_286,cliente286@email.com,São Paulo,RJ,2025-07-07
+287,Cliente_287,Sobrenome_287,cliente287@email.com,Salvador,RS,2024-10-30
+288,Cliente_288,Sobrenome_288,cliente288@email.com,Salvador,BA,2025-05-13
+289,Cliente_289,Sobrenome_289,cliente289@email.com,Salvador,RS,2025-01-18
+290,Cliente_290,Sobrenome_290,cliente290@email.com,Porto Alegre,MG,2024-11-08
+291,Cliente_291,Sobrenome_291,cliente291@email.com,Porto Alegre,MG,2024-11-18
+292,Cliente_292,Sobrenome_292,cliente292@email.com,Salvador,SP,2024-10-28
+293,Cliente_293,Sobrenome_293,cliente293@email.com,São Paulo,RJ,2024-10-20
+294,Cliente_294,Sobrenome_294,cliente294@email.com,Rio de Janeiro,MG,2024-10-02
+295,Cliente_295,Sobrenome_295,cliente295@email.com,São Paulo,RJ,2025-05-06
+296,Cliente_296,Sobrenome_296,cliente296@email.com,Rio de Janeiro,BA,2025-07-29
+297,Cliente_297,Sobrenome_297,cliente297@email.com,Rio de Janeiro,SP,2025-02-08
+298,Cliente_298,Sobrenome_298,cliente298@email.com,Porto Alegre,BA,2025-01-08
+299,Cliente_299,Sobrenome_299,cliente299@email.com,Belo Horizonte,SP,2025-05-10
+300,Cliente_300,Sobrenome_300,cliente300@email.com,Belo Horizonte,MG,2024-09-11
+301,Cliente_301,Sobrenome_301,cliente301@email.com,Porto Alegre,SP,2024-09-19
+302,Cliente_302,Sobrenome_302,cliente302@email.com,Rio de Janeiro,MG,2024-10-20
+303,Cliente_303,Sobrenome_303,cliente303@email.com,Salvador,RJ,2025-01-31
+304,Cliente_304,Sobrenome_304,cliente304@email.com,São Paulo,BA,2025-05-13
+305,Cliente_305,Sobrenome_305,cliente305@email.com,Rio de Janeiro,MG,2025-06-25
+306,Cliente_306,Sobrenome_306,cliente306@email.com,São Paulo,SP,2025-06-13
+307,Cliente_307,Sobrenome_307,cliente307@email.com,Belo Horizonte,BA,2024-11-18
+308,Cliente_308,Sobrenome_308,cliente308@email.com,Belo Horizonte,RS,2025-07-04
+309,Cliente_309,Sobrenome_309,cliente309@email.com,Porto Alegre,MG,2024-09-12
+310,Cliente_310,Sobrenome_310,cliente310@email.com,Porto Alegre,MG,2024-12-23
+311,Cliente_311,Sobrenome_311,cliente311@email.com,Salvador,RS,2025-01-24
+312,Cliente_312,Sobrenome_312,cliente312@email.com,São Paulo,BA,2025-08-16
+313,Cliente_313,Sobrenome_313,cliente313@email.com,Porto Alegre,MG,2024-10-31
+314,Cliente_314,Sobrenome_314,cliente314@email.com,Belo Horizonte,SP,2025-07-21
+315,Cliente_315,Sobrenome_315,cliente315@email.com,Rio de Janeiro,BA,2024-11-09
+316,Cliente_316,Sobrenome_316,cliente316@email.com,São Paulo,MG,2024-11-14
+317,Cliente_317,Sobrenome_317,cliente317@email.com,São Paulo,RJ,2025-01-08
+318,Cliente_318,Sobrenome_318,cliente318@email.com,Salvador,RS,2025-04-16
+319,Cliente_319,Sobrenome_319,cliente319@email.com,Rio de Janeiro,BA,2025-01-25
+320,Cliente_320,Sobrenome_320,cliente320@email.com,Porto Alegre,SP,2025-01-08
+321,Cliente_321,Sobrenome_321,cliente321@email.com,Belo Horizonte,RS,2025-03-19
+322,Cliente_322,Sobrenome_322,cliente322@email.com,Belo Horizonte,SP,2025-06-15
+323,Cliente_323,Sobrenome_323,cliente323@email.com,Belo Horizonte,RS,2024-09-15
+324,Cliente_324,Sobrenome_324,cliente324@email.com,Porto Alegre,MG,2024-10-01
+325,Cliente_325,Sobrenome_325,cliente325@email.com,Porto Alegre,BA,2025-08-18
+326,Cliente_326,Sobrenome_326,cliente326@email.com,Porto Alegre,SP,2025-03-28
+327,Cliente_327,Sobrenome_327,cliente327@email.com,Belo Horizonte,MG,2025-07-08
+328,Cliente_328,Sobrenome_328,cliente328@email.com,Porto Alegre,BA,2025-09-05
+329,Cliente_329,Sobrenome_329,cliente329@email.com,Salvador,RS,2025-02-06
+330,Cliente_330,Sobrenome_330,cliente330@email.com,São Paulo,RJ,2024-12-14
+331,Cliente_331,Sobrenome_331,cliente331@email.com,Belo Horizonte,BA,2024-12-24
+332,Cliente_332,Sobrenome_332,cliente332@email.com,Porto Alegre,SP,2025-05-24
+333,Cliente_333,Sobrenome_333,cliente333@email.com,Belo Horizonte,BA,2025-06-30
+334,Cliente_334,Sobrenome_334,cliente334@email.com,Belo Horizonte,RS,2024-09-13
+335,Cliente_335,Sobrenome_335,cliente335@email.com,Porto Alegre,SP,2025-08-22
+336,Cliente_336,Sobrenome_336,cliente336@email.com,Salvador,RJ,2024-09-07
+337,Cliente_337,Sobrenome_337,cliente337@email.com,Rio de Janeiro,MG,2024-11-27
+338,Cliente_338,Sobrenome_338,cliente338@email.com,São Paulo,BA,2025-02-09
+339,Cliente_339,Sobrenome_339,cliente339@email.com,São Paulo,RJ,2025-07-09
+340,Cliente_340,Sobrenome_340,cliente340@email.com,Porto Alegre,SP,2024-10-09
+341,Cliente_341,Sobrenome_341,cliente341@email.com,Rio de Janeiro,RS,2025-04-09
+342,Cliente_342,Sobrenome_342,cliente342@email.com,Salvador,MG,2025-02-05
+343,Cliente_343,Sobrenome_343,cliente343@email.com,Porto Alegre,RS,2025-05-04
+344,Cliente_344,Sobrenome_344,cliente344@email.com,Porto Alegre,BA,2025-06-23
+345,Cliente_345,Sobrenome_345,cliente345@email.com,Porto Alegre,RJ,2024-11-03
+346,Cliente_346,Sobrenome_346,cliente346@email.com,Salvador,RJ,2025-08-01
+347,Cliente_347,Sobrenome_347,cliente347@email.com,Belo Horizonte,RS,2025-03-15
+348,Cliente_348,Sobrenome_348,cliente348@email.com,Salvador,MG,2025-09-04
+349,Cliente_349,Sobrenome_349,cliente349@email.com,Belo Horizonte,MG,2024-11-09
+350,Cliente_350,Sobrenome_350,cliente350@email.com,Salvador,RS,2025-06-21
+351,Cliente_351,Sobrenome_351,cliente351@email.com,Porto Alegre,BA,2025-01-01
+352,Cliente_352,Sobrenome_352,cliente352@email.com,Belo Horizonte,MG,2024-11-27
+353,Cliente_353,Sobrenome_353,cliente353@email.com,Salvador,RS,2025-01-15
+354,Cliente_354,Sobrenome_354,cliente354@email.com,Belo Horizonte,RJ,2024-09-13
+355,Cliente_355,Sobrenome_355,cliente355@email.com,Rio de Janeiro,BA,2025-02-21
+356,Cliente_356,Sobrenome_356,cliente356@email.com,Rio de Janeiro,RS,2025-08-14
+357,Cliente_357,Sobrenome_357,cliente357@email.com,Belo Horizonte,RS,2024-09-09
+358,Cliente_358,Sobrenome_358,cliente358@email.com,Porto Alegre,RS,2024-10-01
+359,Cliente_359,Sobrenome_359,cliente359@email.com,Rio de Janeiro,RS,2025-08-18
+360,Cliente_360,Sobrenome_360,cliente360@email.com,Rio de Janeiro,BA,2024-11-07
+361,Cliente_361,Sobrenome_361,cliente361@email.com,Belo Horizonte,SP,2025-01-23
+362,Cliente_362,Sobrenome_362,cliente362@email.com,São Paulo,BA,2025-01-15
+363,Cliente_363,Sobrenome_363,cliente363@email.com,São Paulo,RJ,2025-02-08
+364,Cliente_364,Sobrenome_364,cliente364@email.com,Rio de Janeiro,SP,2025-01-08
+365,Cliente_365,Sobrenome_365,cliente365@email.com,Belo Horizonte,MG,2024-10-21
+366,Cliente_366,Sobrenome_366,cliente366@email.com,Porto Alegre,SP,2025-03-21
+367,Cliente_367,Sobrenome_367,cliente367@email.com,Salvador,RS,2025-03-27
+368,Cliente_368,Sobrenome_368,cliente368@email.com,Porto Alegre,BA,2025-08-18
+369,Cliente_369,Sobrenome_369,cliente369@email.com,Salvador,SP,2025-05-08
+370,Cliente_370,Sobrenome_370,cliente370@email.com,Belo Horizonte,RJ,2025-07-21
+371,Cliente_371,Sobrenome_371,cliente371@email.com,Porto Alegre,SP,2024-10-16
+372,Cliente_372,Sobrenome_372,cliente372@email.com,São Paulo,RS,2025-06-12
+373,Cliente_373,Sobrenome_373,cliente373@email.com,Belo Horizonte,SP,2025-08-13
+374,Cliente_374,Sobrenome_374,cliente374@email.com,Belo Horizonte,SP,2025-04-08
+375,Cliente_375,Sobrenome_375,cliente375@email.com,Belo Horizonte,MG,2025-01-28
+376,Cliente_376,Sobrenome_376,cliente376@email.com,Rio de Janeiro,RJ,2024-12-08
+377,Cliente_377,Sobrenome_377,cliente377@email.com,Porto Alegre,BA,2024-09-21
+378,Cliente_378,Sobrenome_378,cliente378@email.com,Rio de Janeiro,RJ,2025-06-08
+379,Cliente_379,Sobrenome_379,cliente379@email.com,São Paulo,BA,2025-02-22
+380,Cliente_380,Sobrenome_380,cliente380@email.com,Salvador,RJ,2024-12-25
+381,Cliente_381,Sobrenome_381,cliente381@email.com,Salvador,RJ,2025-05-10
+382,Cliente_382,Sobrenome_382,cliente382@email.com,Porto Alegre,MG,2025-01-13
+383,Cliente_383,Sobrenome_383,cliente383@email.com,Belo Horizonte,SP,2025-01-10
+384,Cliente_384,Sobrenome_384,cliente384@email.com,Belo Horizonte,BA,2025-06-17
+385,Cliente_385,Sobrenome_385,cliente385@email.com,São Paulo,RS,2025-03-13
+386,Cliente_386,Sobrenome_386,cliente386@email.com,Salvador,MG,2024-10-13
+387,Cliente_387,Sobrenome_387,cliente387@email.com,Porto Alegre,MG,2025-01-15
+388,Cliente_388,Sobrenome_388,cliente388@email.com,Belo Horizonte,RJ,2025-02-21
+389,Cliente_389,Sobrenome_389,cliente389@email.com,Porto Alegre,SP,2025-05-07
+390,Cliente_390,Sobrenome_390,cliente390@email.com,Porto Alegre,BA,2025-03-06
+391,Cliente_391,Sobrenome_391,cliente391@email.com,Salvador,MG,2024-09-12
+392,Cliente_392,Sobrenome_392,cliente392@email.com,Belo Horizonte,SP,2024-10-03
+393,Cliente_393,Sobrenome_393,cliente393@email.com,Porto Alegre,MG,2025-09-01
+394,Cliente_394,Sobrenome_394,cliente394@email.com,Salvador,SP,2024-10-30
+395,Cliente_395,Sobrenome_395,cliente395@email.com,Porto Alegre,MG,2025-05-11
+396,Cliente_396,Sobrenome_396,cliente396@email.com,Salvador,MG,2025-05-16
+397,Cliente_397,Sobrenome_397,cliente397@email.com,Rio de Janeiro,BA,2025-04-30
+398,Cliente_398,Sobrenome_398,cliente398@email.com,Rio de Janeiro,SP,2024-10-19
+399,Cliente_399,Sobrenome_399,cliente399@email.com,São Paulo,MG,2025-01-23
+400,Cliente_400,Sobrenome_400,cliente400@email.com,São Paulo,BA,2025-03-03
+401,Cliente_401,Sobrenome_401,cliente401@email.com,Rio de Janeiro,SP,2025-04-07
+402,Cliente_402,Sobrenome_402,cliente402@email.com,Belo Horizonte,RS,2025-06-08
+403,Cliente_403,Sobrenome_403,cliente403@email.com,Rio de Janeiro,RJ,2024-12-03
+404,Cliente_404,Sobrenome_404,cliente404@email.com,Belo Horizonte,BA,2024-12-23
+405,Cliente_405,Sobrenome_405,cliente405@email.com,Belo Horizonte,RJ,2025-04-27
+406,Cliente_406,Sobrenome_406,cliente406@email.com,Porto Alegre,MG,2025-03-16
+407,Cliente_407,Sobrenome_407,cliente407@email.com,São Paulo,RS,2025-07-29
+408,Cliente_408,Sobrenome_408,cliente408@email.com,Rio de Janeiro,RJ,2024-09-24
+409,Cliente_409,Sobrenome_409,cliente409@email.com,Porto Alegre,BA,2025-03-02
+410,Cliente_410,Sobrenome_410,cliente410@email.com,São Paulo,RS,2025-08-29
+411,Cliente_411,Sobrenome_411,cliente411@email.com,Belo Horizonte,BA,2025-07-04
+412,Cliente_412,Sobrenome_412,cliente412@email.com,Porto Alegre,MG,2024-09-26
+413,Cliente_413,Sobrenome_413,cliente413@email.com,Belo Horizonte,BA,2025-02-22
+414,Cliente_414,Sobrenome_414,cliente414@email.com,Belo Horizonte,SP,2024-09-25
+415,Cliente_415,Sobrenome_415,cliente415@email.com,Rio de Janeiro,RS,2025-08-24
+416,Cliente_416,Sobrenome_416,cliente416@email.com,Salvador,BA,2025-03-22
+417,Cliente_417,Sobrenome_417,cliente417@email.com,Salvador,RJ,2024-10-09
+418,Cliente_418,Sobrenome_418,cliente418@email.com,São Paulo,RS,2024-09-12
+419,Cliente_419,Sobrenome_419,cliente419@email.com,Belo Horizonte,RS,2025-07-08
+420,Cliente_420,Sobrenome_420,cliente420@email.com,Rio de Janeiro,SP,2025-08-17
+421,Cliente_421,Sobrenome_421,cliente421@email.com,Belo Horizonte,RS,2025-07-08
+422,Cliente_422,Sobrenome_422,cliente422@email.com,São Paulo,RJ,2024-12-04
+423,Cliente_423,Sobrenome_423,cliente423@email.com,Rio de Janeiro,RS,2025-01-16
+424,Cliente_424,Sobrenome_424,cliente424@email.com,Belo Horizonte,BA,2025-02-03
+425,Cliente_425,Sobrenome_425,cliente425@email.com,Salvador,RJ,2025-02-05
+426,Cliente_426,Sobrenome_426,cliente426@email.com,São Paulo,RS,2024-10-25
+427,Cliente_427,Sobrenome_427,cliente427@email.com,Porto Alegre,MG,2025-08-20
+428,Cliente_428,Sobrenome_428,cliente428@email.com,Belo Horizonte,RJ,2025-01-21
+429,Cliente_429,Sobrenome_429,cliente429@email.com,Porto Alegre,RJ,2025-03-04
+430,Cliente_430,Sobrenome_430,cliente430@email.com,São Paulo,MG,2024-12-01
+431,Cliente_431,Sobrenome_431,cliente431@email.com,Belo Horizonte,SP,2025-02-14
+432,Cliente_432,Sobrenome_432,cliente432@email.com,Belo Horizonte,RJ,2025-07-05
+433,Cliente_433,Sobrenome_433,cliente433@email.com,Porto Alegre,SP,2024-10-01
+434,Cliente_434,Sobrenome_434,cliente434@email.com,Rio de Janeiro,BA,2025-08-26
+435,Cliente_435,Sobrenome_435,cliente435@email.com,São Paulo,MG,2025-05-04
+436,Cliente_436,Sobrenome_436,cliente436@email.com,Rio de Janeiro,BA,2025-05-23
+437,Cliente_437,Sobrenome_437,cliente437@email.com,São Paulo,BA,2025-05-22
+438,Cliente_438,Sobrenome_438,cliente438@email.com,Salvador,RJ,2025-05-09
+439,Cliente_439,Sobrenome_439,cliente439@email.com,Belo Horizonte,RJ,2024-11-04
+440,Cliente_440,Sobrenome_440,cliente440@email.com,São Paulo,MG,2025-06-23
+441,Cliente_441,Sobrenome_441,cliente441@email.com,Rio de Janeiro,BA,2025-04-30
+442,Cliente_442,Sobrenome_442,cliente442@email.com,Rio de Janeiro,SP,2024-10-02
+443,Cliente_443,Sobrenome_443,cliente443@email.com,São Paulo,RJ,2025-08-29
+444,Cliente_444,Sobrenome_444,cliente444@email.com,Belo Horizonte,RJ,2024-11-08
+445,Cliente_445,Sobrenome_445,cliente445@email.com,Belo Horizonte,SP,2025-06-08
+446,Cliente_446,Sobrenome_446,cliente446@email.com,Belo Horizonte,SP,2025-07-03
+447,Cliente_447,Sobrenome_447,cliente447@email.com,Porto Alegre,BA,2025-07-09
+448,Cliente_448,Sobrenome_448,cliente448@email.com,São Paulo,RS,2025-01-19
+449,Cliente_449,Sobrenome_449,cliente449@email.com,Belo Horizonte,BA,2024-11-06
+450,Cliente_450,Sobrenome_450,cliente450@email.com,São Paulo,RS,2024-12-22
+451,Cliente_451,Sobrenome_451,cliente451@email.com,Rio de Janeiro,BA,2025-08-14
+452,Cliente_452,Sobrenome_452,cliente452@email.com,Salvador,MG,2025-01-14
+453,Cliente_453,Sobrenome_453,cliente453@email.com,São Paulo,SP,2025-01-03
+454,Cliente_454,Sobrenome_454,cliente454@email.com,Porto Alegre,RS,2024-09-19
+455,Cliente_455,Sobrenome_455,cliente455@email.com,São Paulo,RS,2024-09-06
+456,Cliente_456,Sobrenome_456,cliente456@email.com,Porto Alegre,SP,2025-07-26
+457,Cliente_457,Sobrenome_457,cliente457@email.com,Belo Horizonte,BA,2025-06-22
+458,Cliente_458,Sobrenome_458,cliente458@email.com,São Paulo,RJ,2025-04-18
+459,Cliente_459,Sobrenome_459,cliente459@email.com,Salvador,BA,2024-11-29
+460,Cliente_460,Sobrenome_460,cliente460@email.com,Belo Horizonte,RS,2024-11-04
+461,Cliente_461,Sobrenome_461,cliente461@email.com,Salvador,MG,2025-01-16
+462,Cliente_462,Sobrenome_462,cliente462@email.com,Salvador,BA,2025-01-28
+463,Cliente_463,Sobrenome_463,cliente463@email.com,São Paulo,SP,2024-10-05
+464,Cliente_464,Sobrenome_464,cliente464@email.com,Salvador,RJ,2025-01-28
+465,Cliente_465,Sobrenome_465,cliente465@email.com,Porto Alegre,RJ,2025-02-06
+466,Cliente_466,Sobrenome_466,cliente466@email.com,Belo Horizonte,RS,2025-02-13
+467,Cliente_467,Sobrenome_467,cliente467@email.com,Porto Alegre,SP,2025-03-29
+468,Cliente_468,Sobrenome_468,cliente468@email.com,Porto Alegre,MG,2024-09-30
+469,Cliente_469,Sobrenome_469,cliente469@email.com,Belo Horizonte,MG,2025-06-19
+470,Cliente_470,Sobrenome_470,cliente470@email.com,Porto Alegre,SP,2025-07-21
+471,Cliente_471,Sobrenome_471,cliente471@email.com,São Paulo,SP,2025-01-27
+472,Cliente_472,Sobrenome_472,cliente472@email.com,São Paulo,MG,2025-07-01
+473,Cliente_473,Sobrenome_473,cliente473@email.com,Salvador,SP,2024-11-09
+474,Cliente_474,Sobrenome_474,cliente474@email.com,Salvador,BA,2025-03-21
+475,Cliente_475,Sobrenome_475,cliente475@email.com,São Paulo,RS,2025-03-08
+476,Cliente_476,Sobrenome_476,cliente476@email.com,Porto Alegre,SP,2025-04-11
+477,Cliente_477,Sobrenome_477,cliente477@email.com,Salvador,MG,2025-03-09
+478,Cliente_478,Sobrenome_478,cliente478@email.com,São Paulo,BA,2024-12-20
+479,Cliente_479,Sobrenome_479,cliente479@email.com,Rio de Janeiro,RJ,2024-10-04
+480,Cliente_480,Sobrenome_480,cliente480@email.com,Porto Alegre,RJ,2025-07-12
+481,Cliente_481,Sobrenome_481,cliente481@email.com,Belo Horizonte,BA,2025-03-01
+482,Cliente_482,Sobrenome_482,cliente482@email.com,São Paulo,MG,2024-11-16
+483,Cliente_483,Sobrenome_483,cliente483@email.com,Rio de Janeiro,RS,2024-11-22
+484,Cliente_484,Sobrenome_484,cliente484@email.com,Salvador,BA,2024-09-25
+485,Cliente_485,Sobrenome_485,cliente485@email.com,Salvador,SP,2024-10-29
+486,Cliente_486,Sobrenome_486,cliente486@email.com,Belo Horizonte,SP,2025-06-05
+487,Cliente_487,Sobrenome_487,cliente487@email.com,Belo Horizonte,MG,2025-03-16
+488,Cliente_488,Sobrenome_488,cliente488@email.com,Belo Horizonte,SP,2025-06-05
+489,Cliente_489,Sobrenome_489,cliente489@email.com,Rio de Janeiro,BA,2024-10-04
+490,Cliente_490,Sobrenome_490,cliente490@email.com,Porto Alegre,SP,2025-06-25
+491,Cliente_491,Sobrenome_491,cliente491@email.com,São Paulo,SP,2024-12-08
+492,Cliente_492,Sobrenome_492,cliente492@email.com,Rio de Janeiro,RS,2025-02-03
+493,Cliente_493,Sobrenome_493,cliente493@email.com,Porto Alegre,MG,2025-06-17
+494,Cliente_494,Sobrenome_494,cliente494@email.com,Belo Horizonte,MG,2025-03-23
+495,Cliente_495,Sobrenome_495,cliente495@email.com,Salvador,BA,2025-07-24
+496,Cliente_496,Sobrenome_496,cliente496@email.com,São Paulo,RJ,2025-06-17
+497,Cliente_497,Sobrenome_497,cliente497@email.com,Salvador,SP,2024-09-25
+498,Cliente_498,Sobrenome_498,cliente498@email.com,São Paulo,MG,2025-01-22
+499,Cliente_499,Sobrenome_499,cliente499@email.com,Porto Alegre,RS,2024-10-30
+500,Cliente_500,Sobrenome_500,cliente500@email.com,Porto Alegre,RS,2025-04-19
+501,Cliente_501,Sobrenome_501,cliente501@email.com,Rio de Janeiro,BA,2025-07-09
+502,Cliente_502,Sobrenome_502,cliente502@email.com,Belo Horizonte,RS,2025-07-11
+503,Cliente_503,Sobrenome_503,cliente503@email.com,Belo Horizonte,BA,2024-12-30
+504,Cliente_504,Sobrenome_504,cliente504@email.com,Salvador,MG,2025-08-13
+505,Cliente_505,Sobrenome_505,cliente505@email.com,Rio de Janeiro,RS,2024-11-03
+506,Cliente_506,Sobrenome_506,cliente506@email.com,São Paulo,SP,2025-05-24
+507,Cliente_507,Sobrenome_507,cliente507@email.com,Belo Horizonte,RJ,2025-06-27
+508,Cliente_508,Sobrenome_508,cliente508@email.com,Belo Horizonte,MG,2025-03-22
+509,Cliente_509,Sobrenome_509,cliente509@email.com,São Paulo,SP,2024-12-25
+510,Cliente_510,Sobrenome_510,cliente510@email.com,Porto Alegre,RJ,2025-07-01
+511,Cliente_511,Sobrenome_511,cliente511@email.com,Porto Alegre,BA,2024-09-10
+512,Cliente_512,Sobrenome_512,cliente512@email.com,Rio de Janeiro,BA,2024-11-23
+513,Cliente_513,Sobrenome_513,cliente513@email.com,Belo Horizonte,SP,2025-02-14
+514,Cliente_514,Sobrenome_514,cliente514@email.com,São Paulo,RS,2025-08-27
+515,Cliente_515,Sobrenome_515,cliente515@email.com,Porto Alegre,SP,2025-03-29
+516,Cliente_516,Sobrenome_516,cliente516@email.com,Salvador,RS,2024-11-16
+517,Cliente_517,Sobrenome_517,cliente517@email.com,Porto Alegre,RS,2025-04-10
+518,Cliente_518,Sobrenome_518,cliente518@email.com,São Paulo,RS,2025-08-26
+519,Cliente_519,Sobrenome_519,cliente519@email.com,Belo Horizonte,RJ,2024-10-24
+520,Cliente_520,Sobrenome_520,cliente520@email.com,Porto Alegre,MG,2025-07-22
+521,Cliente_521,Sobrenome_521,cliente521@email.com,Porto Alegre,SP,2025-05-04
+522,Cliente_522,Sobrenome_522,cliente522@email.com,Porto Alegre,BA,2025-02-12
+523,Cliente_523,Sobrenome_523,cliente523@email.com,Salvador,SP,2025-02-15
+524,Cliente_524,Sobrenome_524,cliente524@email.com,Belo Horizonte,MG,2025-05-15
+525,Cliente_525,Sobrenome_525,cliente525@email.com,Belo Horizonte,RJ,2025-07-28
+526,Cliente_526,Sobrenome_526,cliente526@email.com,Salvador,SP,2024-12-08
+527,Cliente_527,Sobrenome_527,cliente527@email.com,Salvador,RJ,2025-03-11
+528,Cliente_528,Sobrenome_528,cliente528@email.com,Belo Horizonte,RJ,2025-05-08
+529,Cliente_529,Sobrenome_529,cliente529@email.com,São Paulo,RJ,2025-04-27
+530,Cliente_530,Sobrenome_530,cliente530@email.com,Rio de Janeiro,RJ,2024-11-01
+531,Cliente_531,Sobrenome_531,cliente531@email.com,Rio de Janeiro,SP,2025-06-07
+532,Cliente_532,Sobrenome_532,cliente532@email.com,Porto Alegre,RS,2024-11-21
+533,Cliente_533,Sobrenome_533,cliente533@email.com,Salvador,RS,2024-09-22
+534,Cliente_534,Sobrenome_534,cliente534@email.com,Salvador,BA,2025-03-24
+535,Cliente_535,Sobrenome_535,cliente535@email.com,Belo Horizonte,RJ,2025-01-23
+536,Cliente_536,Sobrenome_536,cliente536@email.com,São Paulo,RS,2025-01-22
+537,Cliente_537,Sobrenome_537,cliente537@email.com,Belo Horizonte,MG,2024-11-07
+538,Cliente_538,Sobrenome_538,cliente538@email.com,São Paulo,MG,2024-12-20
+539,Cliente_539,Sobrenome_539,cliente539@email.com,São Paulo,MG,2025-01-12
+540,Cliente_540,Sobrenome_540,cliente540@email.com,Porto Alegre,SP,2025-08-07
+541,Cliente_541,Sobrenome_541,cliente541@email.com,Belo Horizonte,MG,2025-07-28
+542,Cliente_542,Sobrenome_542,cliente542@email.com,São Paulo,BA,2024-11-05
+543,Cliente_543,Sobrenome_543,cliente543@email.com,Salvador,RS,2025-01-12
+544,Cliente_544,Sobrenome_544,cliente544@email.com,Salvador,BA,2025-08-15
+545,Cliente_545,Sobrenome_545,cliente545@email.com,Porto Alegre,BA,2024-10-07
+546,Cliente_546,Sobrenome_546,cliente546@email.com,Rio de Janeiro,MG,2024-10-31
+547,Cliente_547,Sobrenome_547,cliente547@email.com,Porto Alegre,BA,2025-06-20
+548,Cliente_548,Sobrenome_548,cliente548@email.com,São Paulo,RS,2025-07-15
+549,Cliente_549,Sobrenome_549,cliente549@email.com,Belo Horizonte,SP,2024-12-21
+550,Cliente_550,Sobrenome_550,cliente550@email.com,Rio de Janeiro,SP,2025-05-02
+551,Cliente_551,Sobrenome_551,cliente551@email.com,Porto Alegre,RS,2024-12-11
+552,Cliente_552,Sobrenome_552,cliente552@email.com,Salvador,BA,2025-06-16
+553,Cliente_553,Sobrenome_553,cliente553@email.com,Belo Horizonte,MG,2025-04-14
+554,Cliente_554,Sobrenome_554,cliente554@email.com,Porto Alegre,RS,2025-03-16
+555,Cliente_555,Sobrenome_555,cliente555@email.com,Salvador,SP,2024-10-17
+556,Cliente_556,Sobrenome_556,cliente556@email.com,Belo Horizonte,SP,2025-03-21
+557,Cliente_557,Sobrenome_557,cliente557@email.com,São Paulo,BA,2024-09-23
+558,Cliente_558,Sobrenome_558,cliente558@email.com,Porto Alegre,MG,2025-04-29
+559,Cliente_559,Sobrenome_559,cliente559@email.com,Salvador,RJ,2025-03-19
+560,Cliente_560,Sobrenome_560,cliente560@email.com,São Paulo,BA,2024-10-01
+561,Cliente_561,Sobrenome_561,cliente561@email.com,Rio de Janeiro,MG,2025-03-31
+562,Cliente_562,Sobrenome_562,cliente562@email.com,Porto Alegre,RJ,2024-11-05
+563,Cliente_563,Sobrenome_563,cliente563@email.com,São Paulo,MG,2024-11-23
+564,Cliente_564,Sobrenome_564,cliente564@email.com,Porto Alegre,MG,2025-07-02
+565,Cliente_565,Sobrenome_565,cliente565@email.com,Salvador,SP,2024-10-10
+566,Cliente_566,Sobrenome_566,cliente566@email.com,Porto Alegre,BA,2025-03-04
+567,Cliente_567,Sobrenome_567,cliente567@email.com,São Paulo,MG,2025-03-31
+568,Cliente_568,Sobrenome_568,cliente568@email.com,Rio de Janeiro,RJ,2025-03-15
+569,Cliente_569,Sobrenome_569,cliente569@email.com,Porto Alegre,RJ,2025-05-13
+570,Cliente_570,Sobrenome_570,cliente570@email.com,Rio de Janeiro,RJ,2025-07-28
+571,Cliente_571,Sobrenome_571,cliente571@email.com,Belo Horizonte,SP,2024-12-20
+572,Cliente_572,Sobrenome_572,cliente572@email.com,Salvador,BA,2025-08-17
+573,Cliente_573,Sobrenome_573,cliente573@email.com,Belo Horizonte,BA,2025-06-30
+574,Cliente_574,Sobrenome_574,cliente574@email.com,Salvador,RS,2025-06-19
+575,Cliente_575,Sobrenome_575,cliente575@email.com,Rio de Janeiro,RJ,2024-09-16
+576,Cliente_576,Sobrenome_576,cliente576@email.com,Salvador,RJ,2025-01-24
+577,Cliente_577,Sobrenome_577,cliente577@email.com,São Paulo,RS,2025-03-03
+578,Cliente_578,Sobrenome_578,cliente578@email.com,Rio de Janeiro,RS,2024-10-28
+579,Cliente_579,Sobrenome_579,cliente579@email.com,Belo Horizonte,RS,2025-05-09
+580,Cliente_580,Sobrenome_580,cliente580@email.com,Salvador,RJ,2025-03-31
+581,Cliente_581,Sobrenome_581,cliente581@email.com,Porto Alegre,RJ,2025-03-01
+582,Cliente_582,Sobrenome_582,cliente582@email.com,Salvador,RS,2025-01-12
+583,Cliente_583,Sobrenome_583,cliente583@email.com,Belo Horizonte,RS,2024-12-22
+584,Cliente_584,Sobrenome_584,cliente584@email.com,Salvador,RS,2025-06-15
+585,Cliente_585,Sobrenome_585,cliente585@email.com,Rio de Janeiro,BA,2025-06-27
+586,Cliente_586,Sobrenome_586,cliente586@email.com,Belo Horizonte,SP,2024-10-12
+587,Cliente_587,Sobrenome_587,cliente587@email.com,Porto Alegre,MG,2024-11-26
+588,Cliente_588,Sobrenome_588,cliente588@email.com,São Paulo,BA,2025-07-04
+589,Cliente_589,Sobrenome_589,cliente589@email.com,Belo Horizonte,SP,2025-06-15
+590,Cliente_590,Sobrenome_590,cliente590@email.com,Belo Horizonte,RS,2024-12-17
+591,Cliente_591,Sobrenome_591,cliente591@email.com,Rio de Janeiro,RS,2025-07-21
+592,Cliente_592,Sobrenome_592,cliente592@email.com,Rio de Janeiro,RS,2025-03-11
+593,Cliente_593,Sobrenome_593,cliente593@email.com,São Paulo,RS,2025-08-09
+594,Cliente_594,Sobrenome_594,cliente594@email.com,Porto Alegre,BA,2025-02-26
+595,Cliente_595,Sobrenome_595,cliente595@email.com,Rio de Janeiro,RS,2025-07-26
+596,Cliente_596,Sobrenome_596,cliente596@email.com,Belo Horizonte,RJ,2025-08-22
+597,Cliente_597,Sobrenome_597,cliente597@email.com,Belo Horizonte,SP,2024-10-08
+598,Cliente_598,Sobrenome_598,cliente598@email.com,Belo Horizonte,RJ,2025-06-27
+599,Cliente_599,Sobrenome_599,cliente599@email.com,São Paulo,MG,2025-01-07
+600,Cliente_600,Sobrenome_600,cliente600@email.com,Rio de Janeiro,RS,2025-01-19
+601,Cliente_601,Sobrenome_601,cliente601@email.com,Salvador,SP,2025-07-27
+602,Cliente_602,Sobrenome_602,cliente602@email.com,São Paulo,MG,2025-05-18
+603,Cliente_603,Sobrenome_603,cliente603@email.com,Rio de Janeiro,BA,2024-10-29
+604,Cliente_604,Sobrenome_604,cliente604@email.com,Salvador,RS,2025-07-11
+605,Cliente_605,Sobrenome_605,cliente605@email.com,Belo Horizonte,RJ,2025-04-04
+606,Cliente_606,Sobrenome_606,cliente606@email.com,São Paulo,SP,2025-05-06
+607,Cliente_607,Sobrenome_607,cliente607@email.com,Porto Alegre,BA,2025-01-14
+608,Cliente_608,Sobrenome_608,cliente608@email.com,São Paulo,SP,2024-12-24
+609,Cliente_609,Sobrenome_609,cliente609@email.com,Salvador,BA,2025-08-28
+610,Cliente_610,Sobrenome_610,cliente610@email.com,Salvador,BA,2025-05-05
+611,Cliente_611,Sobrenome_611,cliente611@email.com,Rio de Janeiro,MG,2025-01-29
+612,Cliente_612,Sobrenome_612,cliente612@email.com,São Paulo,BA,2025-03-09
+613,Cliente_613,Sobrenome_613,cliente613@email.com,Rio de Janeiro,BA,2025-02-04
+614,Cliente_614,Sobrenome_614,cliente614@email.com,Rio de Janeiro,SP,2024-12-11
+615,Cliente_615,Sobrenome_615,cliente615@email.com,Belo Horizonte,SP,2024-12-10
+616,Cliente_616,Sobrenome_616,cliente616@email.com,Salvador,BA,2024-12-20
+617,Cliente_617,Sobrenome_617,cliente617@email.com,Salvador,SP,2025-02-18
+618,Cliente_618,Sobrenome_618,cliente618@email.com,Porto Alegre,SP,2024-10-15
+619,Cliente_619,Sobrenome_619,cliente619@email.com,Porto Alegre,MG,2025-04-29
+620,Cliente_620,Sobrenome_620,cliente620@email.com,São Paulo,MG,2025-08-02
+621,Cliente_621,Sobrenome_621,cliente621@email.com,Belo Horizonte,RJ,2024-10-04
+622,Cliente_622,Sobrenome_622,cliente622@email.com,São Paulo,BA,2025-03-19
+623,Cliente_623,Sobrenome_623,cliente623@email.com,Rio de Janeiro,SP,2025-03-09
+624,Cliente_624,Sobrenome_624,cliente624@email.com,Salvador,MG,2024-10-11
+625,Cliente_625,Sobrenome_625,cliente625@email.com,Rio de Janeiro,RS,2024-09-14
+626,Cliente_626,Sobrenome_626,cliente626@email.com,Porto Alegre,RJ,2025-06-28
+627,Cliente_627,Sobrenome_627,cliente627@email.com,São Paulo,RS,2025-08-18
+628,Cliente_628,Sobrenome_628,cliente628@email.com,Belo Horizonte,RJ,2025-08-14
+629,Cliente_629,Sobrenome_629,cliente629@email.com,Rio de Janeiro,SP,2025-03-28
+630,Cliente_630,Sobrenome_630,cliente630@email.com,Belo Horizonte,BA,2025-02-14
+631,Cliente_631,Sobrenome_631,cliente631@email.com,Salvador,RS,2025-04-29
+632,Cliente_632,Sobrenome_632,cliente632@email.com,São Paulo,RJ,2025-04-12
+633,Cliente_633,Sobrenome_633,cliente633@email.com,Belo Horizonte,SP,2024-10-05
+634,Cliente_634,Sobrenome_634,cliente634@email.com,Belo Horizonte,MG,2025-07-04
+635,Cliente_635,Sobrenome_635,cliente635@email.com,Belo Horizonte,RS,2025-02-13
+636,Cliente_636,Sobrenome_636,cliente636@email.com,Porto Alegre,RS,2025-03-16
+637,Cliente_637,Sobrenome_637,cliente637@email.com,Rio de Janeiro,RS,2024-09-16
+638,Cliente_638,Sobrenome_638,cliente638@email.com,Porto Alegre,MG,2024-12-14
+639,Cliente_639,Sobrenome_639,cliente639@email.com,Belo Horizonte,SP,2025-01-31
+640,Cliente_640,Sobrenome_640,cliente640@email.com,São Paulo,RS,2024-11-01
+641,Cliente_641,Sobrenome_641,cliente641@email.com,Rio de Janeiro,BA,2025-04-08
+642,Cliente_642,Sobrenome_642,cliente642@email.com,Belo Horizonte,SP,2025-07-27
+643,Cliente_643,Sobrenome_643,cliente643@email.com,Belo Horizonte,MG,2025-04-02
+644,Cliente_644,Sobrenome_644,cliente644@email.com,Porto Alegre,BA,2025-01-30
+645,Cliente_645,Sobrenome_645,cliente645@email.com,Rio de Janeiro,RS,2025-03-10
+646,Cliente_646,Sobrenome_646,cliente646@email.com,Porto Alegre,SP,2025-03-09
+647,Cliente_647,Sobrenome_647,cliente647@email.com,Salvador,RS,2025-04-18
+648,Cliente_648,Sobrenome_648,cliente648@email.com,São Paulo,SP,2024-09-27
+649,Cliente_649,Sobrenome_649,cliente649@email.com,Porto Alegre,MG,2024-12-17
+650,Cliente_650,Sobrenome_650,cliente650@email.com,Rio de Janeiro,SP,2025-06-24
+651,Cliente_651,Sobrenome_651,cliente651@email.com,Salvador,RS,2025-08-19
+652,Cliente_652,Sobrenome_652,cliente652@email.com,Rio de Janeiro,SP,2025-05-08
+653,Cliente_653,Sobrenome_653,cliente653@email.com,Belo Horizonte,MG,2025-02-21
+654,Cliente_654,Sobrenome_654,cliente654@email.com,Salvador,SP,2024-10-31
+655,Cliente_655,Sobrenome_655,cliente655@email.com,Rio de Janeiro,RS,2025-02-28
+656,Cliente_656,Sobrenome_656,cliente656@email.com,Belo Horizonte,RS,2025-07-28
+657,Cliente_657,Sobrenome_657,cliente657@email.com,Salvador,RJ,2024-12-08
+658,Cliente_658,Sobrenome_658,cliente658@email.com,Belo Horizonte,RS,2025-03-29
+659,Cliente_659,Sobrenome_659,cliente659@email.com,Belo Horizonte,RJ,2025-07-09
+660,Cliente_660,Sobrenome_660,cliente660@email.com,São Paulo,RJ,2024-12-24
+661,Cliente_661,Sobrenome_661,cliente661@email.com,Salvador,RS,2024-11-22
+662,Cliente_662,Sobrenome_662,cliente662@email.com,São Paulo,MG,2025-04-25
+663,Cliente_663,Sobrenome_663,cliente663@email.com,Porto Alegre,RJ,2024-10-27
+664,Cliente_664,Sobrenome_664,cliente664@email.com,Belo Horizonte,RS,2025-05-26
+665,Cliente_665,Sobrenome_665,cliente665@email.com,São Paulo,RJ,2025-07-30
+666,Cliente_666,Sobrenome_666,cliente666@email.com,Porto Alegre,RJ,2025-01-21
+667,Cliente_667,Sobrenome_667,cliente667@email.com,São Paulo,MG,2024-09-29
+668,Cliente_668,Sobrenome_668,cliente668@email.com,Belo Horizonte,SP,2024-11-28
+669,Cliente_669,Sobrenome_669,cliente669@email.com,Salvador,MG,2025-04-05
+670,Cliente_670,Sobrenome_670,cliente670@email.com,Rio de Janeiro,RJ,2025-03-04
+671,Cliente_671,Sobrenome_671,cliente671@email.com,Salvador,RJ,2025-07-05
+672,Cliente_672,Sobrenome_672,cliente672@email.com,Rio de Janeiro,RJ,2025-05-07
+673,Cliente_673,Sobrenome_673,cliente673@email.com,Porto Alegre,SP,2025-03-05
+674,Cliente_674,Sobrenome_674,cliente674@email.com,Salvador,BA,2025-03-01
+675,Cliente_675,Sobrenome_675,cliente675@email.com,Porto Alegre,BA,2025-07-01
+676,Cliente_676,Sobrenome_676,cliente676@email.com,Salvador,SP,2025-08-03
+677,Cliente_677,Sobrenome_677,cliente677@email.com,Belo Horizonte,RS,2025-01-03
+678,Cliente_678,Sobrenome_678,cliente678@email.com,Salvador,RS,2025-02-08
+679,Cliente_679,Sobrenome_679,cliente679@email.com,Salvador,SP,2025-07-03
+680,Cliente_680,Sobrenome_680,cliente680@email.com,Belo Horizonte,SP,2025-01-18
+681,Cliente_681,Sobrenome_681,cliente681@email.com,Porto Alegre,BA,2025-03-13
+682,Cliente_682,Sobrenome_682,cliente682@email.com,Rio de Janeiro,BA,2024-10-13
+683,Cliente_683,Sobrenome_683,cliente683@email.com,Salvador,RJ,2025-07-01
+684,Cliente_684,Sobrenome_684,cliente684@email.com,Porto Alegre,BA,2025-08-08
+685,Cliente_685,Sobrenome_685,cliente685@email.com,São Paulo,BA,2025-06-19
+686,Cliente_686,Sobrenome_686,cliente686@email.com,Belo Horizonte,RJ,2025-06-15
+687,Cliente_687,Sobrenome_687,cliente687@email.com,Belo Horizonte,RJ,2025-03-12
+688,Cliente_688,Sobrenome_688,cliente688@email.com,Salvador,MG,2025-07-27
+689,Cliente_689,Sobrenome_689,cliente689@email.com,Belo Horizonte,RJ,2024-10-15
+690,Cliente_690,Sobrenome_690,cliente690@email.com,Salvador,MG,2025-07-03
+691,Cliente_691,Sobrenome_691,cliente691@email.com,Belo Horizonte,BA,2024-12-06
+692,Cliente_692,Sobrenome_692,cliente692@email.com,São Paulo,BA,2024-10-12
+693,Cliente_693,Sobrenome_693,cliente693@email.com,Rio de Janeiro,BA,2024-11-12
+694,Cliente_694,Sobrenome_694,cliente694@email.com,Rio de Janeiro,RJ,2024-10-03
+695,Cliente_695,Sobrenome_695,cliente695@email.com,Salvador,BA,2025-03-17
+696,Cliente_696,Sobrenome_696,cliente696@email.com,Salvador,SP,2025-08-22
+697,Cliente_697,Sobrenome_697,cliente697@email.com,São Paulo,SP,2024-10-12
+698,Cliente_698,Sobrenome_698,cliente698@email.com,Salvador,MG,2024-10-07
+699,Cliente_699,Sobrenome_699,cliente699@email.com,Rio de Janeiro,BA,2025-02-04
+700,Cliente_700,Sobrenome_700,cliente700@email.com,Salvador,SP,2024-12-25
+701,Cliente_701,Sobrenome_701,cliente701@email.com,Salvador,MG,2024-10-12
+702,Cliente_702,Sobrenome_702,cliente702@email.com,Belo Horizonte,RS,2025-05-03
+703,Cliente_703,Sobrenome_703,cliente703@email.com,Porto Alegre,MG,2025-01-16
+704,Cliente_704,Sobrenome_704,cliente704@email.com,São Paulo,SP,2025-06-17
+705,Cliente_705,Sobrenome_705,cliente705@email.com,Porto Alegre,RS,2025-01-01
+706,Cliente_706,Sobrenome_706,cliente706@email.com,Porto Alegre,RJ,2025-03-15
+707,Cliente_707,Sobrenome_707,cliente707@email.com,Salvador,RJ,2025-03-29
+708,Cliente_708,Sobrenome_708,cliente708@email.com,Belo Horizonte,MG,2025-02-13
+709,Cliente_709,Sobrenome_709,cliente709@email.com,Rio de Janeiro,MG,2024-12-16
+710,Cliente_710,Sobrenome_710,cliente710@email.com,Salvador,SP,2025-03-26
+711,Cliente_711,Sobrenome_711,cliente711@email.com,Rio de Janeiro,RS,2025-07-05
+712,Cliente_712,Sobrenome_712,cliente712@email.com,Belo Horizonte,RS,2025-05-02
+713,Cliente_713,Sobrenome_713,cliente713@email.com,Rio de Janeiro,SP,2025-08-11
+714,Cliente_714,Sobrenome_714,cliente714@email.com,Belo Horizonte,RS,2024-10-25
+715,Cliente_715,Sobrenome_715,cliente715@email.com,Porto Alegre,RJ,2025-06-16
+716,Cliente_716,Sobrenome_716,cliente716@email.com,Belo Horizonte,BA,2025-03-29
+717,Cliente_717,Sobrenome_717,cliente717@email.com,Rio de Janeiro,RJ,2024-12-24
+718,Cliente_718,Sobrenome_718,cliente718@email.com,Salvador,RS,2024-12-24
+719,Cliente_719,Sobrenome_719,cliente719@email.com,Belo Horizonte,RS,2025-08-25
+720,Cliente_720,Sobrenome_720,cliente720@email.com,São Paulo,RS,2024-12-21
+721,Cliente_721,Sobrenome_721,cliente721@email.com,Porto Alegre,RJ,2025-05-18
+722,Cliente_722,Sobrenome_722,cliente722@email.com,Salvador,MG,2025-08-12
+723,Cliente_723,Sobrenome_723,cliente723@email.com,São Paulo,MG,2024-12-26
+724,Cliente_724,Sobrenome_724,cliente724@email.com,Salvador,RS,2025-04-12
+725,Cliente_725,Sobrenome_725,cliente725@email.com,Salvador,SP,2025-07-12
+726,Cliente_726,Sobrenome_726,cliente726@email.com,Porto Alegre,RJ,2025-04-23
+727,Cliente_727,Sobrenome_727,cliente727@email.com,Belo Horizonte,RS,2025-03-02
+728,Cliente_728,Sobrenome_728,cliente728@email.com,São Paulo,RS,2025-08-10
+729,Cliente_729,Sobrenome_729,cliente729@email.com,Salvador,BA,2025-05-29
+730,Cliente_730,Sobrenome_730,cliente730@email.com,Belo Horizonte,BA,2025-04-11
+731,Cliente_731,Sobrenome_731,cliente731@email.com,São Paulo,RS,2024-12-21
+732,Cliente_732,Sobrenome_732,cliente732@email.com,Porto Alegre,BA,2025-04-15
+733,Cliente_733,Sobrenome_733,cliente733@email.com,Salvador,BA,2025-07-07
+734,Cliente_734,Sobrenome_734,cliente734@email.com,Rio de Janeiro,SP,2025-02-16
+735,Cliente_735,Sobrenome_735,cliente735@email.com,Belo Horizonte,MG,2024-11-24
+736,Cliente_736,Sobrenome_736,cliente736@email.com,Belo Horizonte,RJ,2025-05-27
+737,Cliente_737,Sobrenome_737,cliente737@email.com,Salvador,BA,2025-02-12
+738,Cliente_738,Sobrenome_738,cliente738@email.com,Salvador,SP,2025-08-13
+739,Cliente_739,Sobrenome_739,cliente739@email.com,São Paulo,RJ,2025-03-19
+740,Cliente_740,Sobrenome_740,cliente740@email.com,Porto Alegre,BA,2025-01-15
+741,Cliente_741,Sobrenome_741,cliente741@email.com,Rio de Janeiro,BA,2024-12-16
+742,Cliente_742,Sobrenome_742,cliente742@email.com,Rio de Janeiro,MG,2024-10-27
+743,Cliente_743,Sobrenome_743,cliente743@email.com,Belo Horizonte,RJ,2025-02-16
+744,Cliente_744,Sobrenome_744,cliente744@email.com,Salvador,MG,2024-11-06
+745,Cliente_745,Sobrenome_745,cliente745@email.com,Belo Horizonte,BA,2024-12-19
+746,Cliente_746,Sobrenome_746,cliente746@email.com,Salvador,RS,2024-09-08
+747,Cliente_747,Sobrenome_747,cliente747@email.com,Salvador,MG,2025-01-05
+748,Cliente_748,Sobrenome_748,cliente748@email.com,São Paulo,MG,2025-03-20
+749,Cliente_749,Sobrenome_749,cliente749@email.com,São Paulo,RS,2024-11-11
+750,Cliente_750,Sobrenome_750,cliente750@email.com,Belo Horizonte,SP,2024-11-04
+751,Cliente_751,Sobrenome_751,cliente751@email.com,Porto Alegre,MG,2024-10-05
+752,Cliente_752,Sobrenome_752,cliente752@email.com,Salvador,BA,2025-05-12
+753,Cliente_753,Sobrenome_753,cliente753@email.com,São Paulo,BA,2025-01-03
+754,Cliente_754,Sobrenome_754,cliente754@email.com,Rio de Janeiro,BA,2024-10-18
+755,Cliente_755,Sobrenome_755,cliente755@email.com,Salvador,RS,2025-06-22
+756,Cliente_756,Sobrenome_756,cliente756@email.com,Rio de Janeiro,SP,2024-11-16
+757,Cliente_757,Sobrenome_757,cliente757@email.com,São Paulo,RJ,2025-08-27
+758,Cliente_758,Sobrenome_758,cliente758@email.com,Porto Alegre,MG,2025-02-03
+759,Cliente_759,Sobrenome_759,cliente759@email.com,Rio de Janeiro,RS,2024-09-17
+760,Cliente_760,Sobrenome_760,cliente760@email.com,Rio de Janeiro,RS,2024-12-23
+761,Cliente_761,Sobrenome_761,cliente761@email.com,Salvador,RS,2025-08-05
+762,Cliente_762,Sobrenome_762,cliente762@email.com,Rio de Janeiro,BA,2025-05-22
+763,Cliente_763,Sobrenome_763,cliente763@email.com,Salvador,MG,2024-10-01
+764,Cliente_764,Sobrenome_764,cliente764@email.com,Porto Alegre,BA,2025-02-25
+765,Cliente_765,Sobrenome_765,cliente765@email.com,Belo Horizonte,RJ,2025-01-13
+766,Cliente_766,Sobrenome_766,cliente766@email.com,Salvador,MG,2024-11-30
+767,Cliente_767,Sobrenome_767,cliente767@email.com,Belo Horizonte,MG,2024-10-28
+768,Cliente_768,Sobrenome_768,cliente768@email.com,Porto Alegre,RJ,2025-05-02
+769,Cliente_769,Sobrenome_769,cliente769@email.com,Belo Horizonte,BA,2025-04-06
+770,Cliente_770,Sobrenome_770,cliente770@email.com,Rio de Janeiro,MG,2025-04-11
+771,Cliente_771,Sobrenome_771,cliente771@email.com,Rio de Janeiro,RS,2025-03-27
+772,Cliente_772,Sobrenome_772,cliente772@email.com,Porto Alegre,MG,2024-11-23
+773,Cliente_773,Sobrenome_773,cliente773@email.com,Belo Horizonte,MG,2025-07-05
+774,Cliente_774,Sobrenome_774,cliente774@email.com,Salvador,BA,2025-02-23
+775,Cliente_775,Sobrenome_775,cliente775@email.com,Porto Alegre,MG,2025-06-23
+776,Cliente_776,Sobrenome_776,cliente776@email.com,Belo Horizonte,SP,2025-04-11
+777,Cliente_777,Sobrenome_777,cliente777@email.com,São Paulo,MG,2025-01-22
+778,Cliente_778,Sobrenome_778,cliente778@email.com,Belo Horizonte,RS,2025-05-19
+779,Cliente_779,Sobrenome_779,cliente779@email.com,Rio de Janeiro,BA,2025-04-20
+780,Cliente_780,Sobrenome_780,cliente780@email.com,Salvador,MG,2025-06-27
+781,Cliente_781,Sobrenome_781,cliente781@email.com,São Paulo,BA,2024-11-09
+782,Cliente_782,Sobrenome_782,cliente782@email.com,Rio de Janeiro,RJ,2025-08-11
+783,Cliente_783,Sobrenome_783,cliente783@email.com,Salvador,RJ,2024-10-14
+784,Cliente_784,Sobrenome_784,cliente784@email.com,Rio de Janeiro,SP,2025-07-16
+785,Cliente_785,Sobrenome_785,cliente785@email.com,Porto Alegre,MG,2025-01-07
+786,Cliente_786,Sobrenome_786,cliente786@email.com,São Paulo,RJ,2025-09-03
+787,Cliente_787,Sobrenome_787,cliente787@email.com,Salvador,RJ,2025-02-09
+788,Cliente_788,Sobrenome_788,cliente788@email.com,Porto Alegre,RS,2024-10-07
+789,Cliente_789,Sobrenome_789,cliente789@email.com,Rio de Janeiro,MG,2025-03-25
+790,Cliente_790,Sobrenome_790,cliente790@email.com,Belo Horizonte,SP,2025-07-22
+791,Cliente_791,Sobrenome_791,cliente791@email.com,Salvador,RJ,2024-12-06
+792,Cliente_792,Sobrenome_792,cliente792@email.com,São Paulo,RJ,2025-02-04
+793,Cliente_793,Sobrenome_793,cliente793@email.com,Rio de Janeiro,SP,2025-02-14
+794,Cliente_794,Sobrenome_794,cliente794@email.com,Porto Alegre,RJ,2025-04-10
+795,Cliente_795,Sobrenome_795,cliente795@email.com,São Paulo,SP,2025-04-06
+796,Cliente_796,Sobrenome_796,cliente796@email.com,Salvador,BA,2025-07-13
+797,Cliente_797,Sobrenome_797,cliente797@email.com,Belo Horizonte,MG,2025-01-16
+798,Cliente_798,Sobrenome_798,cliente798@email.com,Salvador,BA,2024-12-27
+799,Cliente_799,Sobrenome_799,cliente799@email.com,Rio de Janeiro,BA,2025-01-09
+800,Cliente_800,Sobrenome_800,cliente800@email.com,Belo Horizonte,RJ,2025-07-10
+801,Cliente_801,Sobrenome_801,cliente801@email.com,Belo Horizonte,RJ,2025-01-14
+802,Cliente_802,Sobrenome_802,cliente802@email.com,Belo Horizonte,RJ,2025-08-29
+803,Cliente_803,Sobrenome_803,cliente803@email.com,Belo Horizonte,MG,2024-11-19
+804,Cliente_804,Sobrenome_804,cliente804@email.com,Rio de Janeiro,RJ,2024-10-28
+805,Cliente_805,Sobrenome_805,cliente805@email.com,Porto Alegre,RS,2024-12-16
+806,Cliente_806,Sobrenome_806,cliente806@email.com,Belo Horizonte,SP,2025-02-12
+807,Cliente_807,Sobrenome_807,cliente807@email.com,São Paulo,RJ,2025-06-26
+808,Cliente_808,Sobrenome_808,cliente808@email.com,Porto Alegre,MG,2025-05-01
+809,Cliente_809,Sobrenome_809,cliente809@email.com,São Paulo,MG,2025-02-21
+810,Cliente_810,Sobrenome_810,cliente810@email.com,Rio de Janeiro,RS,2025-04-22
+811,Cliente_811,Sobrenome_811,cliente811@email.com,Belo Horizonte,MG,2024-11-11
+812,Cliente_812,Sobrenome_812,cliente812@email.com,Salvador,SP,2025-04-25
+813,Cliente_813,Sobrenome_813,cliente813@email.com,Belo Horizonte,RJ,2025-08-05
+814,Cliente_814,Sobrenome_814,cliente814@email.com,São Paulo,RS,2025-04-01
+815,Cliente_815,Sobrenome_815,cliente815@email.com,Rio de Janeiro,RS,2024-09-19
+816,Cliente_816,Sobrenome_816,cliente816@email.com,Salvador,MG,2024-09-17
+817,Cliente_817,Sobrenome_817,cliente817@email.com,São Paulo,MG,2025-03-01
+818,Cliente_818,Sobrenome_818,cliente818@email.com,Salvador,RJ,2025-05-16
+819,Cliente_819,Sobrenome_819,cliente819@email.com,Rio de Janeiro,RS,2025-06-19
+820,Cliente_820,Sobrenome_820,cliente820@email.com,Porto Alegre,BA,2025-02-26
+821,Cliente_821,Sobrenome_821,cliente821@email.com,Porto Alegre,BA,2025-01-07
+822,Cliente_822,Sobrenome_822,cliente822@email.com,Salvador,RJ,2025-05-02
+823,Cliente_823,Sobrenome_823,cliente823@email.com,Salvador,SP,2024-12-10
+824,Cliente_824,Sobrenome_824,cliente824@email.com,Porto Alegre,BA,2024-09-10
+825,Cliente_825,Sobrenome_825,cliente825@email.com,Belo Horizonte,SP,2024-11-21
+826,Cliente_826,Sobrenome_826,cliente826@email.com,São Paulo,SP,2024-11-29
+827,Cliente_827,Sobrenome_827,cliente827@email.com,Salvador,RJ,2024-11-16
+828,Cliente_828,Sobrenome_828,cliente828@email.com,Salvador,RJ,2025-06-13
+829,Cliente_829,Sobrenome_829,cliente829@email.com,Belo Horizonte,BA,2025-01-22
+830,Cliente_830,Sobrenome_830,cliente830@email.com,São Paulo,RJ,2024-11-11
+831,Cliente_831,Sobrenome_831,cliente831@email.com,Porto Alegre,SP,2024-12-18
+832,Cliente_832,Sobrenome_832,cliente832@email.com,Porto Alegre,SP,2025-01-16
+833,Cliente_833,Sobrenome_833,cliente833@email.com,Rio de Janeiro,BA,2025-02-05
+834,Cliente_834,Sobrenome_834,cliente834@email.com,Porto Alegre,BA,2025-08-07
+835,Cliente_835,Sobrenome_835,cliente835@email.com,Salvador,RS,2024-09-26
+836,Cliente_836,Sobrenome_836,cliente836@email.com,Belo Horizonte,SP,2025-02-15
+837,Cliente_837,Sobrenome_837,cliente837@email.com,Belo Horizonte,SP,2025-05-17
+838,Cliente_838,Sobrenome_838,cliente838@email.com,Salvador,SP,2025-08-13
+839,Cliente_839,Sobrenome_839,cliente839@email.com,Porto Alegre,MG,2024-09-12
+840,Cliente_840,Sobrenome_840,cliente840@email.com,São Paulo,BA,2025-08-06
+841,Cliente_841,Sobrenome_841,cliente841@email.com,São Paulo,RS,2025-08-20
+842,Cliente_842,Sobrenome_842,cliente842@email.com,Belo Horizonte,RS,2025-06-05
+843,Cliente_843,Sobrenome_843,cliente843@email.com,Rio de Janeiro,RS,2025-02-26
+844,Cliente_844,Sobrenome_844,cliente844@email.com,Porto Alegre,RS,2025-02-24
+845,Cliente_845,Sobrenome_845,cliente845@email.com,Porto Alegre,SP,2024-09-21
+846,Cliente_846,Sobrenome_846,cliente846@email.com,Salvador,RJ,2024-10-06
+847,Cliente_847,Sobrenome_847,cliente847@email.com,Belo Horizonte,SP,2025-06-06
+848,Cliente_848,Sobrenome_848,cliente848@email.com,Salvador,RS,2024-12-09
+849,Cliente_849,Sobrenome_849,cliente849@email.com,Rio de Janeiro,RJ,2025-09-04
+850,Cliente_850,Sobrenome_850,cliente850@email.com,São Paulo,MG,2025-01-11
+851,Cliente_851,Sobrenome_851,cliente851@email.com,Salvador,RS,2024-12-07
+852,Cliente_852,Sobrenome_852,cliente852@email.com,Porto Alegre,RJ,2025-05-02
+853,Cliente_853,Sobrenome_853,cliente853@email.com,Porto Alegre,MG,2025-06-18
+854,Cliente_854,Sobrenome_854,cliente854@email.com,Belo Horizonte,RJ,2025-07-10
+855,Cliente_855,Sobrenome_855,cliente855@email.com,São Paulo,RS,2024-10-26
+856,Cliente_856,Sobrenome_856,cliente856@email.com,São Paulo,RJ,2025-05-23
+857,Cliente_857,Sobrenome_857,cliente857@email.com,São Paulo,SP,2024-11-05
+858,Cliente_858,Sobrenome_858,cliente858@email.com,São Paulo,RS,2024-11-03
+859,Cliente_859,Sobrenome_859,cliente859@email.com,São Paulo,RJ,2025-08-14
+860,Cliente_860,Sobrenome_860,cliente860@email.com,Porto Alegre,RS,2025-05-09
+861,Cliente_861,Sobrenome_861,cliente861@email.com,Salvador,RJ,2025-08-08
+862,Cliente_862,Sobrenome_862,cliente862@email.com,Rio de Janeiro,BA,2025-04-10
+863,Cliente_863,Sobrenome_863,cliente863@email.com,Rio de Janeiro,BA,2025-03-26
+864,Cliente_864,Sobrenome_864,cliente864@email.com,Salvador,BA,2024-09-26
+865,Cliente_865,Sobrenome_865,cliente865@email.com,Belo Horizonte,RJ,2025-04-04
+866,Cliente_866,Sobrenome_866,cliente866@email.com,Rio de Janeiro,BA,2025-05-15
+867,Cliente_867,Sobrenome_867,cliente867@email.com,Porto Alegre,MG,2025-04-18
+868,Cliente_868,Sobrenome_868,cliente868@email.com,São Paulo,BA,2024-11-07
+869,Cliente_869,Sobrenome_869,cliente869@email.com,Rio de Janeiro,RS,2024-11-25
+870,Cliente_870,Sobrenome_870,cliente870@email.com,Porto Alegre,SP,2025-03-13
+871,Cliente_871,Sobrenome_871,cliente871@email.com,Porto Alegre,BA,2025-03-26
+872,Cliente_872,Sobrenome_872,cliente872@email.com,Porto Alegre,RS,2025-06-21
+873,Cliente_873,Sobrenome_873,cliente873@email.com,Belo Horizonte,RS,2025-06-03
+874,Cliente_874,Sobrenome_874,cliente874@email.com,Salvador,RS,2025-05-05
+875,Cliente_875,Sobrenome_875,cliente875@email.com,Rio de Janeiro,MG,2024-09-08
+876,Cliente_876,Sobrenome_876,cliente876@email.com,Rio de Janeiro,RS,2025-08-07
+877,Cliente_877,Sobrenome_877,cliente877@email.com,Salvador,RS,2025-02-04
+878,Cliente_878,Sobrenome_878,cliente878@email.com,Salvador,BA,2025-06-29
+879,Cliente_879,Sobrenome_879,cliente879@email.com,Porto Alegre,RJ,2025-04-28
+880,Cliente_880,Sobrenome_880,cliente880@email.com,Rio de Janeiro,MG,2024-10-09
+881,Cliente_881,Sobrenome_881,cliente881@email.com,São Paulo,RS,2025-02-28
+882,Cliente_882,Sobrenome_882,cliente882@email.com,São Paulo,BA,2025-05-31
+883,Cliente_883,Sobrenome_883,cliente883@email.com,São Paulo,MG,2025-02-24
+884,Cliente_884,Sobrenome_884,cliente884@email.com,Salvador,BA,2025-08-16
+885,Cliente_885,Sobrenome_885,cliente885@email.com,São Paulo,RJ,2024-11-09
+886,Cliente_886,Sobrenome_886,cliente886@email.com,Salvador,RJ,2025-01-03
+887,Cliente_887,Sobrenome_887,cliente887@email.com,Rio de Janeiro,MG,2025-04-03
+888,Cliente_888,Sobrenome_888,cliente888@email.com,São Paulo,RJ,2025-05-31
+889,Cliente_889,Sobrenome_889,cliente889@email.com,São Paulo,RS,2025-05-04
+890,Cliente_890,Sobrenome_890,cliente890@email.com,Salvador,RJ,2025-02-14
+891,Cliente_891,Sobrenome_891,cliente891@email.com,Rio de Janeiro,BA,2025-03-25
+892,Cliente_892,Sobrenome_892,cliente892@email.com,Belo Horizonte,RS,2025-01-10
+893,Cliente_893,Sobrenome_893,cliente893@email.com,Salvador,MG,2025-04-01
+894,Cliente_894,Sobrenome_894,cliente894@email.com,Belo Horizonte,MG,2024-12-17
+895,Cliente_895,Sobrenome_895,cliente895@email.com,Porto Alegre,RS,2025-07-17
+896,Cliente_896,Sobrenome_896,cliente896@email.com,Porto Alegre,MG,2025-05-24
+897,Cliente_897,Sobrenome_897,cliente897@email.com,Belo Horizonte,MG,2025-02-06
+898,Cliente_898,Sobrenome_898,cliente898@email.com,São Paulo,BA,2025-05-15
+899,Cliente_899,Sobrenome_899,cliente899@email.com,Rio de Janeiro,SP,2025-04-25
+900,Cliente_900,Sobrenome_900,cliente900@email.com,Salvador,BA,2024-11-13
+901,Cliente_901,Sobrenome_901,cliente901@email.com,Porto Alegre,MG,2025-06-19
+902,Cliente_902,Sobrenome_902,cliente902@email.com,Rio de Janeiro,MG,2025-05-11
+903,Cliente_903,Sobrenome_903,cliente903@email.com,Porto Alegre,BA,2025-05-03
+904,Cliente_904,Sobrenome_904,cliente904@email.com,Porto Alegre,BA,2024-10-05
+905,Cliente_905,Sobrenome_905,cliente905@email.com,Belo Horizonte,MG,2024-12-29
+906,Cliente_906,Sobrenome_906,cliente906@email.com,Porto Alegre,RS,2025-06-11
+907,Cliente_907,Sobrenome_907,cliente907@email.com,Belo Horizonte,RJ,2025-06-26
+908,Cliente_908,Sobrenome_908,cliente908@email.com,Salvador,RS,2025-06-03
+909,Cliente_909,Sobrenome_909,cliente909@email.com,Salvador,SP,2024-12-11
+910,Cliente_910,Sobrenome_910,cliente910@email.com,São Paulo,SP,2024-09-28
+911,Cliente_911,Sobrenome_911,cliente911@email.com,São Paulo,SP,2025-02-06
+912,Cliente_912,Sobrenome_912,cliente912@email.com,Rio de Janeiro,RJ,2025-08-02
+913,Cliente_913,Sobrenome_913,cliente913@email.com,Rio de Janeiro,SP,2025-05-17
+914,Cliente_914,Sobrenome_914,cliente914@email.com,Salvador,RS,2025-02-26
+915,Cliente_915,Sobrenome_915,cliente915@email.com,São Paulo,BA,2024-10-14
+916,Cliente_916,Sobrenome_916,cliente916@email.com,Salvador,RS,2024-10-03
+917,Cliente_917,Sobrenome_917,cliente917@email.com,Porto Alegre,SP,2025-09-02
+918,Cliente_918,Sobrenome_918,cliente918@email.com,Salvador,BA,2025-02-07
+919,Cliente_919,Sobrenome_919,cliente919@email.com,São Paulo,SP,2024-12-08
+920,Cliente_920,Sobrenome_920,cliente920@email.com,Belo Horizonte,BA,2025-04-12
+921,Cliente_921,Sobrenome_921,cliente921@email.com,São Paulo,BA,2024-09-13
+922,Cliente_922,Sobrenome_922,cliente922@email.com,Porto Alegre,RJ,2025-07-13
+923,Cliente_923,Sobrenome_923,cliente923@email.com,São Paulo,BA,2025-06-21
+924,Cliente_924,Sobrenome_924,cliente924@email.com,Rio de Janeiro,RJ,2024-10-23
+925,Cliente_925,Sobrenome_925,cliente925@email.com,Salvador,MG,2025-03-08
+926,Cliente_926,Sobrenome_926,cliente926@email.com,Belo Horizonte,RS,2025-07-27
+927,Cliente_927,Sobrenome_927,cliente927@email.com,Belo Horizonte,RS,2025-01-13
+928,Cliente_928,Sobrenome_928,cliente928@email.com,Salvador,RJ,2024-09-14
+929,Cliente_929,Sobrenome_929,cliente929@email.com,Rio de Janeiro,MG,2024-09-20
+930,Cliente_930,Sobrenome_930,cliente930@email.com,São Paulo,SP,2025-07-20
+931,Cliente_931,Sobrenome_931,cliente931@email.com,Porto Alegre,RS,2025-02-24
+932,Cliente_932,Sobrenome_932,cliente932@email.com,Salvador,RS,2025-08-08
+933,Cliente_933,Sobrenome_933,cliente933@email.com,São Paulo,RJ,2025-07-25
+934,Cliente_934,Sobrenome_934,cliente934@email.com,Porto Alegre,RS,2024-10-10
+935,Cliente_935,Sobrenome_935,cliente935@email.com,Belo Horizonte,BA,2025-07-19
+936,Cliente_936,Sobrenome_936,cliente936@email.com,Salvador,SP,2025-05-11
+937,Cliente_937,Sobrenome_937,cliente937@email.com,Rio de Janeiro,BA,2025-01-05
+938,Cliente_938,Sobrenome_938,cliente938@email.com,Belo Horizonte,SP,2025-07-29
+939,Cliente_939,Sobrenome_939,cliente939@email.com,Belo Horizonte,BA,2024-11-21
+940,Cliente_940,Sobrenome_940,cliente940@email.com,São Paulo,RJ,2025-03-28
+941,Cliente_941,Sobrenome_941,cliente941@email.com,São Paulo,RJ,2024-11-09
+942,Cliente_942,Sobrenome_942,cliente942@email.com,Rio de Janeiro,RS,2025-07-28
+943,Cliente_943,Sobrenome_943,cliente943@email.com,Belo Horizonte,RJ,2024-11-21
+944,Cliente_944,Sobrenome_944,cliente944@email.com,Rio de Janeiro,BA,2025-02-18
+945,Cliente_945,Sobrenome_945,cliente945@email.com,Salvador,MG,2025-02-21
+946,Cliente_946,Sobrenome_946,cliente946@email.com,Rio de Janeiro,SP,2024-12-23
+947,Cliente_947,Sobrenome_947,cliente947@email.com,Belo Horizonte,SP,2025-07-17
+948,Cliente_948,Sobrenome_948,cliente948@email.com,Porto Alegre,RJ,2025-07-29
+949,Cliente_949,Sobrenome_949,cliente949@email.com,Belo Horizonte,BA,2024-10-26
+950,Cliente_950,Sobrenome_950,cliente950@email.com,Salvador,RS,2025-03-22
+951,Cliente_951,Sobrenome_951,cliente951@email.com,São Paulo,MG,2025-01-18
+952,Cliente_952,Sobrenome_952,cliente952@email.com,Porto Alegre,RJ,2025-03-07
+953,Cliente_953,Sobrenome_953,cliente953@email.com,Salvador,RS,2025-01-27
+954,Cliente_954,Sobrenome_954,cliente954@email.com,Rio de Janeiro,BA,2024-10-02
+955,Cliente_955,Sobrenome_955,cliente955@email.com,Porto Alegre,SP,2024-10-24
+956,Cliente_956,Sobrenome_956,cliente956@email.com,Belo Horizonte,RJ,2025-07-30
+957,Cliente_957,Sobrenome_957,cliente957@email.com,São Paulo,MG,2025-06-19
+958,Cliente_958,Sobrenome_958,cliente958@email.com,Porto Alegre,RJ,2025-02-18
+959,Cliente_959,Sobrenome_959,cliente959@email.com,Belo Horizonte,MG,2025-07-13
+960,Cliente_960,Sobrenome_960,cliente960@email.com,São Paulo,SP,2025-04-01
+961,Cliente_961,Sobrenome_961,cliente961@email.com,Porto Alegre,MG,2025-04-20
+962,Cliente_962,Sobrenome_962,cliente962@email.com,São Paulo,RJ,2025-07-23
+963,Cliente_963,Sobrenome_963,cliente963@email.com,Rio de Janeiro,RS,2025-01-19
+964,Cliente_964,Sobrenome_964,cliente964@email.com,Salvador,BA,2024-12-17
+965,Cliente_965,Sobrenome_965,cliente965@email.com,Porto Alegre,SP,2025-08-23
+966,Cliente_966,Sobrenome_966,cliente966@email.com,São Paulo,MG,2024-11-26
+967,Cliente_967,Sobrenome_967,cliente967@email.com,São Paulo,BA,2024-11-03
+968,Cliente_968,Sobrenome_968,cliente968@email.com,Belo Horizonte,RS,2025-08-30
+969,Cliente_969,Sobrenome_969,cliente969@email.com,Belo Horizonte,RS,2025-02-19
+970,Cliente_970,Sobrenome_970,cliente970@email.com,São Paulo,BA,2025-05-04
+971,Cliente_971,Sobrenome_971,cliente971@email.com,Salvador,BA,2025-06-11
+972,Cliente_972,Sobrenome_972,cliente972@email.com,Porto Alegre,RJ,2025-06-26
+973,Cliente_973,Sobrenome_973,cliente973@email.com,Belo Horizonte,MG,2025-04-21
+974,Cliente_974,Sobrenome_974,cliente974@email.com,Porto Alegre,RJ,2025-08-04
+975,Cliente_975,Sobrenome_975,cliente975@email.com,Rio de Janeiro,RS,2025-04-17
+976,Cliente_976,Sobrenome_976,cliente976@email.com,Porto Alegre,MG,2025-01-01
+977,Cliente_977,Sobrenome_977,cliente977@email.com,São Paulo,MG,2025-04-30
+978,Cliente_978,Sobrenome_978,cliente978@email.com,Rio de Janeiro,RS,2024-11-05
+979,Cliente_979,Sobrenome_979,cliente979@email.com,Salvador,RJ,2025-01-14
+980,Cliente_980,Sobrenome_980,cliente980@email.com,São Paulo,RJ,2025-04-03
+981,Cliente_981,Sobrenome_981,cliente981@email.com,São Paulo,RS,2025-03-19
+982,Cliente_982,Sobrenome_982,cliente982@email.com,Salvador,RS,2025-03-21
+983,Cliente_983,Sobrenome_983,cliente983@email.com,Porto Alegre,MG,2025-01-28
+984,Cliente_984,Sobrenome_984,cliente984@email.com,Salvador,RJ,2025-04-05
+985,Cliente_985,Sobrenome_985,cliente985@email.com,Belo Horizonte,BA,2024-09-15
+986,Cliente_986,Sobrenome_986,cliente986@email.com,Rio de Janeiro,RS,2025-03-29
+987,Cliente_987,Sobrenome_987,cliente987@email.com,Rio de Janeiro,RS,2025-03-26
+988,Cliente_988,Sobrenome_988,cliente988@email.com,Belo Horizonte,RS,2024-11-15
+989,Cliente_989,Sobrenome_989,cliente989@email.com,Rio de Janeiro,MG,2025-02-25
+990,Cliente_990,Sobrenome_990,cliente990@email.com,Belo Horizonte,RS,2025-03-03
+991,Cliente_991,Sobrenome_991,cliente991@email.com,São Paulo,BA,2025-05-26
+992,Cliente_992,Sobrenome_992,cliente992@email.com,Salvador,BA,2025-06-05
+993,Cliente_993,Sobrenome_993,cliente993@email.com,Salvador,SP,2025-01-12
+994,Cliente_994,Sobrenome_994,cliente994@email.com,Rio de Janeiro,RS,2025-04-09
+995,Cliente_995,Sobrenome_995,cliente995@email.com,São Paulo,RS,2024-09-26
+996,Cliente_996,Sobrenome_996,cliente996@email.com,Porto Alegre,RJ,2024-10-16
+997,Cliente_997,Sobrenome_997,cliente997@email.com,Belo Horizonte,RJ,2025-04-29
+998,Cliente_998,Sobrenome_998,cliente998@email.com,Rio de Janeiro,RS,2025-02-24
+999,Cliente_999,Sobrenome_999,cliente999@email.com,São Paulo,RS,2024-11-03
+1000,Cliente_1000,Sobrenome_1000,cliente1000@email.com,Porto Alegre,BA,2025-02-12

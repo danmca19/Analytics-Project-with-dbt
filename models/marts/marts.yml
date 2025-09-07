@@ -1,0 +1,49 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: "Customer dimension with basic attributes."
+    columns:
+      - name: customer_id
+        tests: [not_null, unique]
+
+  - name: fct_sales
+    description: "Fact table at the order-item grain."
+    columns:
+      - name: order_item_id
+        tests: [not_null, unique]
+      - name: order_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_orders')
+              field: order_id
+      - name: product_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_products')
+              field: product_id
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_customers')
+              field: customer_id
+      - name: line_revenue
+        tests: [non_negative]
+      - name: line_cost
+        tests: [non_negative]
+
+exposures:
+  - name: sales_dashboard
+    type: dashboard
+    maturity: medium
+    url: "https://example.com/your-dashboard"
+    description: "Example exposure to show downstream dependency."
+    owner:
+      name: "Data Team"
+      email: "data@example.com"
+    depends_on:
+      - ref('fct_sales')
+      - ref('dim_customers')

@@ -1,0 +1,68 @@
+version: 2
+
+models:
+  - name: stg_orders
+    description: "Cleansed orders."
+    tests: []
+    columns:
+      - name: order_id
+        description: "Primary key."
+        tests: [not_null, unique]
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_customers')
+              field: customer_id
+      - name: order_date
+        tests: [not_null]
+      - name: status
+        tests:
+          - accepted_values:
+              values: ['cancelled', 'completed', 'pending']
+      - name: total_amount
+        tests: [non_negative]
+
+  - name: stg_order_items
+    description: "Cleansed order items."
+    columns:
+      - name: order_item_id
+        tests: [not_null, unique]
+      - name: order_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_orders')
+              field: order_id
+      - name: product_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_products')
+              field: product_id
+      - name: quantity
+        tests: [not_null, non_negative]
+      - name: unit_price
+        tests: [not_null, non_negative]
+      - name: total_price
+        tests: [non_negative]
+
+  - name: stg_products
+    description: "Cleansed products."
+    columns:
+      - name: product_id
+        tests: [not_null, unique]
+      - name: product_name
+      - name: category
+      - name: price
+        tests: [not_null, non_negative]
+      - name: cost
+        tests: [not_null, non_negative]
+
+  - name: stg_customers
+    description: "Cleansed customers."
+    columns:
+      - name: customer_id
+        tests: [not_null, unique]
+      - name: email
+        tests: [not_null]
