@@ -1,4 +1,4 @@
-# 📊 Business Value from DBT Analytics Project
+# 📊 E-Commerce Analytics Pipeline with dbt
 
 ## 🔎 Project Overview  
 This project demonstrates how **dbt** (data build tool) can be used to transform raw CSV data into clean, reliable, and analytics-ready datasets.  
@@ -39,23 +39,15 @@ The datasets analyzed include:
 
 ---
 
-## 🔗 Lineage Process & Advantages  
+## 🔗 DBT Documenation View  
+This document describes a dbt project that processes raw order and customer data into structured tables for analysis. It explains the transformation models and presents the resulting findings on sales trends and customer behavior. The purpose is to provide a clear reference for how the data is structured and what it reveals.
 
-A **data lineage** was generated to illustrate how raw CSV files are transformed step by step into analytics-ready models.  
-
-### Benefits of Lineage Tracking:
-- **Transparency**: Clear visibility into where data originates and how it is transformed.  
-- **Governance**: Ensures traceability for audits and compliance.  
-- **Debugging**: Helps data teams quickly identify where errors propagate.  
-- **Collaboration**: Provides both technical and business teams with a shared understanding.  
-
-### DBT Documenation View  
 
 ![DBT ExploratoryAnalysis Graph](Images/DBT_ExploratoryAnalysis.png)
 
 ---
 
-## ✅ Business Value Summary  
+## ✅ Business Value Summary by using DBT
 
 By implementing dbt with modular transformations, we enabled:  
 - Faster **decision-making** through trustworthy data.  
